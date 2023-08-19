@@ -10,3 +10,7 @@
 1) 
 #### c) Multiple point cloud from the same objects :
 1) HyperPocket: https://ieeexplore.ieee.org/abstract/document/9981829/
+
+### 2) Multimodal Inputs
+#### a) Partial point clouts + Single View Images
+1) 
