@@ -25,7 +25,19 @@ Here are works in point cloud completion so far.
 1. PoinTr: http://openaccess.thecvf.com/content/ICCV2021/html/Yu_PoinTr_Diverse_Point_Cloud_Completion_With_Geometry-Aware_Transformers_ICCV_2021_paper.html
 2. PMP-Net: http://openaccess.thecvf.com/content/CVPR2021/html/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.html
 3. SnowflakeNet: http://openaccess.thecvf.com/content/ICCV2021/html/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.html
-4. 
+4. Axform:Attention-based Transformation from Latent Features to Point Clouds: https://ojs.aaai.org/index.php/AAAI/article/view/20238
+5. A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion: https://arxiv.org/abs/2112.03530
+6. Balanced Chamfer Distance as a Comprehensive Metric for Point Cloud Completion:[ ](https://proceedings.neurips.cc/paper/2021/hash/f3bd5ad57c8389a8a1a541a76be463bf-Abstract.html)
+7.KTNet: Knowledge Transfer for Unpaired 3D Shape Completion : https://ojs.aaai.org/index.php/AAAI/article/view/25101
+8. Self-Supervised Point Cloud Completion via Inpainting: https://arxiv.org/abs/2111.10701
+9. TreeGCN-ED: Encoding Point Cloud using a Tree-Structured Graph Network: https://arxiv.org/abs/2110.03170
+10. Voxel-based Network for Shape Completion by Leveraging Edge Generation: http://openaccess.thecvf.com/content/ICCV2021/html/Wang_Voxel-Based_Network_for_Shape_Completion_by_Leveraging_Edge_Generation_ICCV_2021_paper.html
+11. Variational Relational Point Completion Network: http://openaccess.thecvf.com/content/CVPR2021/html/Pan_Variational_Relational_Point_Completion_Network_CVPR_2021_paper.html
+12. ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion : https://dl.acm.org/doi/abs/10.1145/3474085.3475348
+13. Denoise and Contrast for Category Agnostic Shape Completion : http://openaccess.thecvf.com/content/CVPR2021/html/Alliegro_Denoise_and_Contrast_for_Category_Agnostic_Shape_Completion_CVPR_2021_paper.html
+14. Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding : http://openaccess.thecvf.com/content/CVPR2021/html/Wen_Cycle4Completion_Unpaired_Point_Cloud_Completion_Using_Cycle_Transformation_With_Missing_CVPR_2021_paper.html
+15.Style-based Point Generator with Adversarial Rendering for Point Cloud Completion : http://openaccess.thecvf.com/content/CVPR2021/html/Xie_Style-Based_Point_Generator_With_Adversarial_Rendering_for_Point_Cloud_Completion_CVPR_2021_paper.html
+16. HyperPocket: Generative Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9981829/
 
 ## 2022
 1. PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths: https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
@@ -40,9 +52,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 9. Spotlights: Probing Shapes from Spherical Viewpoints: https://openaccess.thecvf.com/content/ACCV2022/html/Wei_Spotlights_Probing_Shapes_from_Spherical_Viewpoints_ACCV_2022_paper.html
 10.LAKe-Net: Topology-Aware Point Cloud Completion by Localizing Aligned Keypoints: http://openaccess.thecvf.com/content/CVPR2022/html/Tang_LAKe-Net_Topology-Aware_Point_Cloud_Completion_by_Localizing_Aligned_Keypoints_CVPR_2022_paper.html
 11. PointAttN: You Only Need Attention for Point Cloud Completion: https://arxiv.org/abs/2203.08485
-12. Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer : https://ieeexplore.ieee.org/abstract/document/9928787/
-13. Towards realistic symmetry-based completion of previously unseen point clouds : https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/html/Rumezhak_Towards_Realistic_Symmetry-Based_Completion_of_Previously_Unseen_Point_Clouds_ICCVW_2021_paper.html
-14. 
+12. Towards realistic symmetry-based completion of previously unseen point clouds : https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/html/Rumezhak_Towards_Realistic_Symmetry-Based_Completion_of_Previously_Unseen_Point_Clouds_ICCVW_2021_paper.html
 
 ## 2023
 1. CP3: https://ieeexplore.ieee.org/abstract/document/10097548/
