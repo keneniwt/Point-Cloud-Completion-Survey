@@ -36,3 +36,24 @@
 35)  Temporal Point Cloud Completion with Pose Disturbance : https://ieeexplore.ieee.org/abstract/document/9695368/
 36)  SRPCN: Structure Retrieval based Point Completion Network : https://arxiv.org/abs/2202.02669
 
+## 2021
+
+1) Deep Point Cloud Reconstruction: https://arxiv.org/abs/2111.11704
+2) Graph-Guided Deformation for Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9484752/
+3) 3D Point Cloud Completion with Geometric-Aware Adversarial Augmentation: https://ieeexplore.ieee.org/abstract/document/9956045/
+4)   High-Fidelity Point Cloud Completion with Low-Resolution Recovery and Noise-Aware Upsampling : https://www.sciencedirect.com/science/article/pii/S1524070323000048
+5) An Efficient Deep Learning Approach Using Improved Generative Adversarial Networks for Incomplete Information Completion of Self-driving : https://link.springer.com/article/10.1007/s10723-022-09610-5
+6) CarveNet: Carving Point-Block for Complex 3D Shape Completion: https://arxiv.org/abs/2107.13452
+7)Task-Aware Sampling Layer for Point-Wise Analysis : https://ieeexplore.ieee.org/abstract/document/9767766/
+8) View-Guided Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2021/html/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.html
+9) RFNet: Recurrent Forward Network for Dense Point Cloud Completion: http://openaccess.thecvf.com/content/ICCV2021/html/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.html
+
+## 2020
+1) PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection : https://ojs.aaai.org/index.php/AAAI/article/view/16456
+2) PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations : https://link.springer.com/chapter/10.1007/978-3-030-58517-4_18
+3) Point Cloud Completion by Skip-attention Network with Hierarchical Folding : http://openaccess.thecvf.com/content_CVPR_2020/html/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.html
+4) 3dDepthNet: Point Cloud Guided Depth Completion Network for Sparse Depth and Single Color Image: https://arxiv.org/abs/2003.09175
+
+## 2015
+
+1) Procedural Editing of 3D Building Point Clouds: http://openaccess.thecvf.com/content_iccv_2015/html/Demir_Procedural_Editing_of_ICCV_2015_paper.html
