@@ -41,8 +41,14 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 5. ProxyFormer: http://openaccess.thecvf.com/content/CVPR2023/html/Li_ProxyFormer_Proxy_Alignment_Assisted_Point_Cloud_Completion_With_Missing_Part_CVPR_2023_paper.html
 6. AdaPoinTr: https://arxiv.org/abs/2301.04545
 7. CSDN: https://ieeexplore.ieee.org/abstract/document/10015045/
-8. MVPCC-NET:https://www.sciencedirect.com/science/article/pii/S0262885623000495
+8. MVPCC-NET: https://www.sciencedirect.com/science/article/pii/S0262885623000495
 9. PCC-Indoor: https://www.frontiersin.org/articles/10.3389/frobt.2023.1184614/full
+10. Fast Point Cloud Generation with Straight Flows: http://openaccess.thecvf.com/content/CVPR2023/html/Wu_Fast_Point_Cloud_Generation_With_Straight_Flows_CVPR_2023_paper.html
+11. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
+12. Point Cloud Diffusion Models for Automatic Implant Generation: https://arxiv.org/abs/2303.08061
+13. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process:
+14. SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator: https://arxiv.org/abs/2307.08492
+15. P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds: https://arxiv.org/abs/2307.14726
 
 ## Pointcloud completion Related papers-2023
 1. PointCA: https://ojs.aaai.org/index.php/AAAI/article/view/25166
@@ -52,6 +58,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 5. Rigid Patterns in PC: https://openaccess.thecvf.com/content/CVPR2023/html/Widdowson_Recognizing_Rigid_Patterns_of_Unlabeled_Point_Clouds_by_Complete_and_CVPR_2023_paper.html
 6. http://openaccess.thecvf.com/content/CVPR2023/html/Ma_Symmetric_Shape-Preserving_Autoencoder_for_Unsupervised_Real_Scene_Point_Cloud_Completion_CVPR_2023_paper.html
 7. https://ieeexplore.ieee.org/abstract/document/10086697/
-8. 
+8. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process: http://openaccess.thecvf.com/content/CVPR2023/html/Li_Generalized_Deep_3D_Shape_Prior_via_Part-Discretized_Diffusion_Process_CVPR_2023_paper.html
+9. PG-RCNN: Semantic Surface Point Generation for 3D Object Detection
 
 
