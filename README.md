@@ -45,6 +45,8 @@ Here are works in point cloud completion so far.
 40. Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN: https://asmedigitalcollection.asme.org/computingengineering/article-abstract/23/4/041008/1155799
 41. Point cloud completion via structured feature maps using a feedback network: https://link.springer.com/article/10.1007/s41095-022-0276-6
 42. Sdfusion: Multimodal 3d shape completion, reconstruction, and generation: http://openaccess.thecvf.com/content/CVPR2023/html/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.html
+43. Bilateral Coarse-to-Fine Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10095048/
+44. 3D Point Cloud Completion Based on Multi-Scale Degradation: https://ieeexplore.ieee.org/iel7/10094559/10094560/10095460.pdf
 
 ## 2022
 1. PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths: https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
