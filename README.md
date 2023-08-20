@@ -3,36 +3,48 @@
 Here are works in point cloud completion so far. 
 
 ## 2023
-1. CP3: https://ieeexplore.ieee.org/abstract/document/10097548/
-2. AnchorFormer: http://openaccess.thecvf.com/content/CVPR2023/html/Chen_AnchorFormer_Point_Cloud_Completion_From_Discriminative_Nodes_CVPR_2023_paper.html
-3. DcTR: https://www.sciencedirect.com/science/article/pii/S0031320322005313
-4. ACL-SPC: http://openaccess.thecvf.com/content/CVPR2023/html/Hong_ACL-SPC_Adaptive_Closed-Loop_System_for_Self-Supervised_Point_Cloud_Completion_CVPR_2023_paper.html
-5. ProxyFormer: http://openaccess.thecvf.com/content/CVPR2023/html/Li_ProxyFormer_Proxy_Alignment_Assisted_Point_Cloud_Completion_With_Missing_Part_CVPR_2023_paper.html
-6. AdaPoinTr: https://arxiv.org/abs/2301.04545
-7. CSDN: https://ieeexplore.ieee.org/abstract/document/10015045/
-8. MVPCC-NET: https://www.sciencedirect.com/science/article/pii/S0262885623000495
-9. PCC-Indoor: https://www.frontiersin.org/articles/10.3389/frobt.2023.1184614/full
-10. Fast Point Cloud Generation with Straight Flows: http://openaccess.thecvf.com/content/CVPR2023/html/Wu_Fast_Point_Cloud_Generation_With_Straight_Flows_CVPR_2023_paper.html
-11. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
-12. Point Cloud Diffusion Models for Automatic Implant Generation: https://arxiv.org/abs/2303.08061
-13. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process:
-14. SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator: https://arxiv.org/abs/2307.08492
-15. P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds: https://arxiv.org/abs/2307.147261)
-16. Point completion by a Stack‐Style Folding Network with multi‐scaled graphical features: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cvi2.12196
-17. Partition-Based Point Cloud Completion Network with Density Refinement: https://www.mdpi.com/1099-4300/25/7/1018
-18. TSEnet(Object Detection of Occlusion Point Cloud based on Transformer): https://ieeexplore.ieee.org/abstract/document/10191240/
-19. GTNet(Learning Geometric Transformation for Point Cloud Completion): https://link.springer.com/article/10.1007/s11263-023-01820-y
-20. Point2PartVolume: Human Body Volume Estimation from A Single Depth Image: https://ieeexplore.ieee.org/abstract/document/10147789/
-21. Null-Space Diffusion Sampling for Zero-Shot Point Cloud Completion:https://www.ijcai.org/proceedings/2023/0069.pdf
-22. High-Resolution Cranial Defect Reconstruction by Iterative, Low-Resolution, Point Cloud Completion Transformers:https://arxiv.org/abs/2308.03813
-23. Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images: https://arxiv.org/abs/2307.08535
-24. Point-Cloud Completion with Pretrained Text-to-image Diffusion Models:https://arxiv.org/abs/2306.10533
-25. Point-PC: Point Cloud Completion Guided by Prior Knowledge via Causal Inference: https://arxiv.org/pdf/2305.17770v1.pdf
-26. DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion: https://arxiv.org/pdf/2305.09132v1.pdf
-27. VRCNet(Variational Relational Point Completion Network for Robust 3D Classification): https://ieeexplore.ieee.org/abstract/document/10106495/
-28. Improving the quality of dental crown using a Transformer-based method: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12463/124633R/Improving-the-quality-of-dental-crown-using-a-transformer-based/10.1117/12.2654350.short
-29. Are All Point Clouds Suitable for Completion? Weakly Supervised Quality Evaluation Network for Point Cloud Completion: https://arxiv.org/abs/2303.01804
-30. Symmetric Shape-Preserving Autoencoder for Unsupervised Real Scene Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2023/html/Ma_Symmetric_Shape-Preserving_Autoencoder_for_Unsupervised_Real_Scene_Point_Cloud_Completion_CVPR_2023_paper.html
+1. Cp3: Unifying point cloud completion by pretrain-prompt-predict paradigm: https://ieeexplore.ieee.org/abstract/document/10097548/
+2. AnchorFormer: Point Cloud Completion From Discriminative Nodeshttp://openaccess.thecvf.com/content/CVPR2023/html/Chen_AnchorFormer_Point_Cloud_Completion_From_Discriminative_Nodes_CVPR_2023_paper.html
+3. DcTR: Noise-robust point cloud completion by dual-channel transformer with cross-attention: https://www.sciencedirect.com/science/article/pii/S0031320322005313
+4. ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion http://openaccess.thecvf.com/content/CVPR2023/html/Hong_ACL-SPC_Adaptive_Closed-Loop_System_for_Self-Supervised_Point_Cloud_Completion_CVPR_2023_paper.html
+5. ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer: http://openaccess.thecvf.com/content/CVPR2023/html/Li_ProxyFormer_Proxy_Alignment_Assisted_Point_Cloud_Completion_With_Missing_Part_CVPR_2023_paper.html
+6. Learning Geometric Transformation for Point Cloud Completion: https://link.springer.com/article/10.1007/s11263-023-01820-y
+7. Symmetric Shape-Preserving Autoencoder for Unsupervised Real Scene Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2023/html/Ma_Symmetric_Shape-Preserving_Autoencoder_for_Unsupervised_Real_Scene_Point_Cloud_Completion_CVPR_2023_paper.html
+8. Fast Point Cloud Generation with Straight Flows: http://openaccess.thecvf.com/content/CVPR2023/html/Wu_Fast_Point_Cloud_Generation_With_Straight_Flows_CVPR_2023_paper.html
+9. AdaPoinTr:Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers: https://arxiv.org/abs/2301.04545
+10. CSDN: Cross-Modal Shape-Transfer Dual-Refinement Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10015045/
+11. MVPCC-NET:Multi-View Based Point Cloud Completion Network for MLS data: https://www.sciencedirect.com/science/article/pii/S0262885623000495
+12. Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images: https://arxiv.org/abs/2307.08535
+13. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
+14. Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking: https://ieeexplore.ieee.org/abstract/document/10043001/
+15. Point Cloud Diffusion Models for Automatic Implant Generation: https://arxiv.org/abs/2303.08061
+16. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process:
+17. SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator: https://arxiv.org/abs/2307.08492
+18. P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds: https://arxiv.org/abs/2307.147261)
+19. Point completion by a Stack‐Style Folding Network with multi‐scaled graphical features: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cvi2.12196
+20. Partition-Based Point Cloud Completion Network with Density Refinement: https://www.mdpi.com/1099-4300/25/7/1018
+21. TSEnet(Object Detection of Occlusion Point Cloud based on Transformer): https://ieeexplore.ieee.org/abstract/document/10191240/
+22. GTNet(Learning Geometric Transformation for Point Cloud Completion): https://link.springer.com/article/10.1007/s11263-023-01820-y
+23. Point2PartVolume: Human Body Volume Estimation from A Single Depth Image: https://ieeexplore.ieee.org/abstract/document/10147789/
+24. Null-Space Diffusion Sampling for Zero-Shot Point Cloud Completion:https://www.ijcai.org/proceedings/2023/0069.pdf
+25. High-Resolution Cranial Defect Reconstruction by Iterative, Low-Resolution, Point Cloud Completion Transformers:https://arxiv.org/abs/2308.03813
+26. Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images: https://arxiv.org/abs/2307.08535
+27. Point-Cloud Completion with Pretrained Text-to-image Diffusion Models:https://arxiv.org/abs/2306.10533
+28. Point-PC: Point Cloud Completion Guided by Prior Knowledge via Causal Inference: https://arxiv.org/pdf/2305.17770v1.pdf
+29. DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion: https://arxiv.org/pdf/2305.09132v1.pdf
+30. VRCNet(Variational Relational Point Completion Network for Robust 3D Classification): https://ieeexplore.ieee.org/abstract/document/10106495/
+31. Improving the quality of dental crown using a Transformer-based method: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12463/124633R/Improving-the-quality-of-dental-crown-using-a-transformer-based/10.1117/12.2654350.short
+32. Are All Point Clouds Suitable for Completion? Weakly Supervised Quality Evaluation Network for Point Cloud Completion: https://arxiv.org/abs/2303.01804
+33. Symmetric Shape-Preserving Autoencoder for Unsupervised Real Scene Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2023/html/Ma_Symmetric_Shape-Preserving_Autoencoder_for_Unsupervised_Real_Scene_Point_Cloud_Completion_CVPR_2023_paper.html
+34. TreeNet: Structure preserving multi-class 3D point cloud completion: https://www.sciencedirect.com/science/article/pii/S0031320323001760
+35. Distinguishing and Matching-Aware Unsupervised Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10056970/
+36. An improved point cloud completion method based on SnowflakeNet: https://ieeexplore.ieee.org/abstract/document/10145791/
+37. A Single-Tree Point Cloud Completion Approach of Feature Fusion for Agricultural Robots: https://www.mdpi.com/2079-9292/12/6/1296
+38. Multi-space and detail-supplemented attention network for point cloud completion : https://link.springer.com/article/10.1007/s10489-022-04219-3
+39. High-fidelity point cloud completion with low-resolution recovery and noise-aware upsampling: https://www.sciencedirect.com/science/article/pii/S1524070323000048
+40. Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN: https://asmedigitalcollection.asme.org/computingengineering/article-abstract/23/4/041008/1155799
+41. Point cloud completion via structured feature maps using a feedback network: https://link.springer.com/article/10.1007/s41095-022-0276-6
+42. Sdfusion: Multimodal 3d shape completion, reconstruction, and generation: http://openaccess.thecvf.com/content/CVPR2023/html/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.html
 
 ## 2022
 1. PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths: https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
@@ -53,9 +65,9 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 15. SPCNet: Stepwise Point Cloud Completion Network: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14665
 16. Prototype-Aware Heterogeneous Task for Point Cloud Completion: https://arxiv.org/abs/2209.01733
 17. Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking: https://ieeexplore.ieee.org/abstract/document/10043001/
-18. CSDN: Cross-modal Shape-transfer Dual-refinement Network for Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/10015045/
-19. CP3: Unifying Point Cloud Completion by Pretrain-Prompt-Predict Paradigm: https://ieeexplore.ieee.org/abstract/document/10097548/
-20. Masked Autoencoders in 3D Point Cloud Representation Learning: https://arxiv.org/abs/2207.01545
+18. Masked Autoencoders in 3D Point Cloud Representation Learning: https://arxiv.org/abs/2207.01545
+19. Temporal Point Cloud Completion with Pose Disturbance : https://ieeexplore.ieee.org/abstract/document/9695368/
+20. SRPCN: Structure Retrieval based Point Completion Network : https://arxiv.org/abs/2202.02669
 21. CompleteDT: Point Cloud Completion with Dense Augment Inference Transformers: https://arxiv.org/abs/2205.14999
 22. SoftPool++: An Encoder-Decoder Network for Point Cloud Completion: https://link.springer.com/article/10.1007/s11263-022-01588-7
 23. Implicit Shape Completion via Adversarial Shape Priors: https://arxiv.org/abs/2204.10060
@@ -66,8 +78,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 28. Completing Partial Point Clouds with Outliers by Collaborative Completion and Segmentation : https://arxiv.org/abs/2203.09772
 29. Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis : https://ieeexplore.ieee.org/abstract/document/9857670/
 30. Point cloud completion via structured feature maps using a feedback network : https://link.springer.com/article/10.1007/s41095-022-0276-6
-31. Temporal Point Cloud Completion with Pose Disturbance : https://ieeexplore.ieee.org/abstract/document/9695368/
-32. SRPCN: Structure Retrieval based Point Completion Network : https://arxiv.org/abs/2202.02669
+
 
 ## 2021
 1. PoinTr: http://openaccess.thecvf.com/content/ICCV2021/html/Yu_PoinTr_Diverse_Point_Cloud_Completion_With_Geometry-Aware_Transformers_ICCV_2021_paper.html
