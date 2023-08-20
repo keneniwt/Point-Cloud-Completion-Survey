@@ -6,12 +6,13 @@ Here are works in point cloud completion so far.
 1. AtlasNet: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
 2. PCN: https://ieeexplore.ieee.org/abstract/document/8491026/?casa_token=rAfDB1LIASkAAAAA:Aqsfq5kk8f1LL0_m1M_4dyHfvjwkieHtAb6xzXVhQqqwrR2Tz1vR0Hnnr4kiuoOA-NynGP9x
 3. PU-Net: http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_PU-Net_Point_Cloud_CVPR_2018_paper.html
-4. 
+
 
 ## 2019
 
 4. TopNet: http://openaccess.thecvf.com/content_CVPR_2019/html/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.html
-5. 
+5. Morphing and Sampling Network for Dense Point Cloud Completion : https://ojs.aaai.org/index.php/AAAI/article/view/6827
+6. 
 
 ## 2020
 1. N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-Stage Network: https://dl.acm.org/doi/abs/10.1145/3436369.3437421?casa_token=lmlYPwjPJjgAAAAA:88cyrxkqf333AU2NBecRmPWKba4oGrniUGnIPOd7U7_69Or_Dh7X7FTtYK7g1RHtqCylhFz6mnw
@@ -27,6 +28,7 @@ Here are works in point cloud completion so far.
 11. GRNet: Gridding Residual Network for Dense Point Cloud Completion :  https://link.springer.com/chapter/10.1007/978-3-030-58545-7_21
 12. Cascaded Refinement Network for Point Cloud Completion : http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Cascaded_Refinement_Network_for_Point_Cloud_Completion_CVPR_2020_paper.html
 13. PF-Net: Point Fractal Network for 3D Point Cloud Completion : http://openaccess.thecvf.com/content_CVPR_2020/html/Huang_PF-Net_Point_Fractal_Network_for_3D_Point_Cloud_Completion_CVPR_2020_paper.html
+14. Unpaired Point Cloud Completion on Real Scans using Adversarial Training: https://arxiv.org/abs/1904.00069
 
 
 
