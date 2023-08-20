@@ -22,3 +22,14 @@
 21) Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking: https://ieeexplore.ieee.org/abstract/document/10043001/
 22) CSDN: Cross-modal Shape-transfer Dual-refinement Network for Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/10015045/
 23) CP3: Unifying Point Cloud Completion by Pretrain-Prompt-Predict Paradigm: https://ieeexplore.ieee.org/abstract/document/10097548/
+24)  Masked Autoencoders in 3D Point Cloud Representation Learning: https://arxiv.org/abs/2207.01545
+25)  CompleteDT: Point Cloud Completion with Dense Augment Inference Transformers: https://arxiv.org/abs/2205.14999
+26)  SoftPool++: An Encoder-Decoder Network for Point Cloud Completion: https://link.springer.com/article/10.1007/s11263-022-01588-7
+27)  Implicit Shape Completion via Adversarial Shape Priors: https://arxiv.org/abs/2204.10060
+28)  Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion: https://arxiv.org/abs/2204.09186
+29) Learning Local Displacements for Point Cloud Completion :  http://openaccess.thecvf.com/content/CVPR2022/html/Wang_Learning_Local_Displacements_for_Point_Cloud_Completion_CVPR_2022_paper.html
+30) Learning a Structured Latent Space for Unsupervised Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Latent_Space_for_Unsupervised_Point_Cloud_Completion_CVPR_2022_paper.html
+31) Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism : https://ieeexplore.ieee.org/abstract/document/9860015/
+32)  Completing Partial Point Clouds with Outliers by Collaborative Completion and Segmentation : https://arxiv.org/abs/2203.09772
+33)  Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis : https://ieeexplore.ieee.org/abstract/document/9857670/
+34)  
