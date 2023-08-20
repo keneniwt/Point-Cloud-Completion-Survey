@@ -118,8 +118,8 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 
 ## 2019
 
-4. TopNet: http://openaccess.thecvf.com/content_CVPR_2019/html/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.html
-5. Morphing and Sampling Network for Dense Point Cloud Completion : https://ojs.aaai.org/index.php/AAAI/article/view/6827
+1. TopNet: http://openaccess.thecvf.com/content_CVPR_2019/html/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.html
+2. Morphing and Sampling Network for Dense Point Cloud Completion : https://ojs.aaai.org/index.php/AAAI/article/view/6827
 
 ## 2018
 1. AtlasNet: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
