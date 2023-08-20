@@ -1,6 +1,6 @@
 # Welcome to GitHub Desktop!
 
-Here are works in point cloud completion so far. 
+Here are works in point cloud completion so far.  
 
 ## 2023
 1. Cp3: Unifying point cloud completion by pretrain-prompt-predict paradigm: https://ieeexplore.ieee.org/abstract/document/10097548/
