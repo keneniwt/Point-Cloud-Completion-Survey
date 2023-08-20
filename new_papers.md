@@ -32,4 +32,7 @@
 31) Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism : https://ieeexplore.ieee.org/abstract/document/9860015/
 32)  Completing Partial Point Clouds with Outliers by Collaborative Completion and Segmentation : https://arxiv.org/abs/2203.09772
 33)  Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis : https://ieeexplore.ieee.org/abstract/document/9857670/
-34)  
+34)  Point cloud completion via structured feature maps using a feedback network : https://link.springer.com/article/10.1007/s41095-022-0276-6
+35)  Temporal Point Cloud Completion with Pose Disturbance : https://ieeexplore.ieee.org/abstract/document/9695368/
+36)  SRPCN: Structure Retrieval based Point Completion Network : https://arxiv.org/abs/2202.02669
+
