@@ -28,10 +28,21 @@ Here are works in point cloud completion so far.
 4. 
 
 ## 2022
-1. https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
-2. SA-Net: 
+1. PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths: https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
+2.  SA-Net: 
 http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Latent_Space_for_Unsupervised_Point_Cloud_Completion_CVPR_2022_paper.html
-3. https://arxiv.org/abs/2203.09772
+3. Completing Partial Point Clouds with Outliers by Collaborative Completion and Segmentation: https://arxiv.org/abs/2203.09772
+4. Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion: https://arxiv.org/abs/2211.06820
+5. FBNet: Feedback Network for Point Cloud Completion: https://link.springer.com/chapter/10.1007/978-3-031-20086-1_39
+6. Cross-modal Learning for Image-Guided Point Cloud Shape Completion: https://proceedings.neurips.cc/paper_files/paper/2022/hash/f2a11632520f4b7473d7838f074a7d25-Abstract-Conference.html
+7. Shape Completion with Points in the Shadow : https://paperswithcode.com/paper/shape-completion-with-points-in-the-shadow
+8. SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer: https://link.springer.com/chapter/10.1007/978-3-031-20062-5_24
+9. Spotlights: Probing Shapes from Spherical Viewpoints: https://openaccess.thecvf.com/content/ACCV2022/html/Wei_Spotlights_Probing_Shapes_from_Spherical_Viewpoints_ACCV_2022_paper.html
+10.LAKe-Net: Topology-Aware Point Cloud Completion by Localizing Aligned Keypoints: http://openaccess.thecvf.com/content/CVPR2022/html/Tang_LAKe-Net_Topology-Aware_Point_Cloud_Completion_by_Localizing_Aligned_Keypoints_CVPR_2022_paper.html
+11. PointAttN: You Only Need Attention for Point Cloud Completion: https://arxiv.org/abs/2203.08485
+12. Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer : https://ieeexplore.ieee.org/abstract/document/9928787/
+13. Towards realistic symmetry-based completion of previously unseen point clouds : https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/html/Rumezhak_Towards_Realistic_Symmetry-Based_Completion_of_Previously_Unseen_Point_Clouds_ICCVW_2021_paper.html
+14. 
 
 ## 2023
 1. CP3: https://ieeexplore.ieee.org/abstract/document/10097548/
