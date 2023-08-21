@@ -78,14 +78,32 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 26. Learning a Structured Latent Space for Unsupervised Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Latent_Space_for_Unsupervised_Point_Cloud_Completion_CVPR_2022_paper.html
 27. Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism : https://ieeexplore.ieee.org/abstract/document/9860015/
 28. Completing Partial Point Clouds with Outliers by Collaborative Completion and Segmentation : https://arxiv.org/abs/2203.09772
-29. Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis : https://ieeexplore.ieee.org/abstract/document/9857670/
+29. Point cloud completion by dynamic transformer with adaptive neighbourhood feature fusion: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cvi2.12098
 30. Point cloud completion via structured feature maps using a feedback network : https://link.springer.com/article/10.1007/s41095-022-0276-6
 31. Projected Generative Adversarial Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/9878350/
 32. Partial-to-Partial Point Generation Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/9904825/
 33. Point cloud completion via skeleton-detail transformer: https://ieeexplore.ieee.org/abstract/document/9804851/
 34. Multi-Scope Feature Extraction for Intracranial Aneurysm 3D Point Cloud Completion: https://www.mdpi.com/2073-4409/11/24/4107
 35. Optimization over disentangled encoding: Unsupervised cross-domain point cloud completion via occlusion factor manipulation: https://link.springer.com/chapter/10.1007/978-3-031-20086-1_30
-36. 
+36.  Growth parameter acquisition and geometric point cloud completion of lettuce: https://www.frontiersin.org/articles/10.3389/fpls.2022.947690/full
+37. Unsupervised Point Cloud Completion and Segmentation by Generative Adversarial Autoencoding Network: https://proceedings.neurips.cc/paper_files/paper/2022/hash/171846d7af5ea91e63db508154eaffe8-Abstract-Conference.html
+38. Cyclic Global Guiding Network for Point Cloud Completion: https://www.mdpi.com/2072-4292/14/14/3316
+39. Cosmos Propagation Network: Deep learning model for point cloud completion: https://www.sciencedirect.com/science/article/pii/S0925231222009821
+40. Point Cloud Completion via Multi-Scale Edge Convolution and Attention: https://dl.acm.org/doi/abs/10.1145/3503161.3548360https://ieeexplore.ieee.org/abstract/document/9864273/
+41. AGFA-Net: Adaptive global feature augmentation network for point cloud completion: https://ieeexplore.ieee.org/abstract/document/9856636/
+42. PointALCR: adversarial latent GAN and contrastive regularization for point cloud completion: https://link.springer.com/article/10.1007/s00371-022-02550-x
+43. A novel method for point cloud completion: Adaptive region shape fusion network: https://www.sciencedirect.com/science/article/pii/S0950705122008966
+44. Adaptive Recurrent Forward Network for Dense Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/9864273/
+45. DPG-Net: Densely progressive-growing network for point cloud completion: https://www.sciencedirect.com/science/article/pii/S0925231222003551
+46. Multi-Dimensional Graph Interactional Network for Progressive Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/9978708/
+47. VQ-DcTr: Vector-quantized autoencoder with dual-channel transformer points splitting for 3D point cloud completion: https://dl.acm.org/doi/abs/10.1145/3503161.3548181
+48. Point Cloud Completion Network Applied to Vehicle Data: https://www.mdpi.com/1424-8220/22/19/7346
+49. *Colored Point Cloud Completion for a Head Using Adversarial Rendered Image Loss: https://www.mdpi.com/2313-433X/8/5/125
+50. Multi-feature fusion point cloud completion network: https://link.springer.com/article/10.1007/s11280-021-00938-8
+51. Multi-view Based 3D Point Cloud Completion Algorithm for Vehicles: https://ieeexplore.ieee.org/abstract/document/9956459/
+52. Flow-based point cloud completion network with adversarial refinement: https://ieeexplore.ieee.org/abstract/document/9747024/
+53. Cross self-attention network for 3D point cloud: https://www.sciencedirect.com/science/article/pii/S0950705122003616
+
 
 
 ## 2021
@@ -94,7 +112,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 3. SnowflakeNet: http://openaccess.thecvf.com/content/ICCV2021/html/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.html
 4. Axform:Attention-based Transformation from Latent Features to Point Clouds: https://ojs.aaai.org/index.php/AAAI/article/view/20238
 5. A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion: https://arxiv.org/abs/2112.03530
-6. Balanced Chamfer Distance as a Comprehensive Metric for Point Cloud Completion:[ ](https://proceedings.neurips.cc/paper/2021/hash/f3bd5ad57c8389a8a1a541a76be463bf-Abstract.html)
+6. Balanced Chamfer Distance as a Comprehensive Metric for Point Cloud Completion: https://proceedings.neurips.cc/paper/2021/hash/f3bd5ad57c8389a8a1a541a76be463bf-Abstract.html
 7.KTNet: Knowledge Transfer for Unpaired 3D Shape Completion : https://ojs.aaai.org/index.php/AAAI/article/view/25101
 8. Self-Supervised Point Cloud Completion via Inpainting: https://arxiv.org/abs/2111.10701
 9. TreeGCN-ED: Encoding Point Cloud using a Tree-Structured Graph Network: https://arxiv.org/abs/2110.03170
@@ -161,5 +179,8 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 7. https://ieeexplore.ieee.org/abstract/document/10086697/
 8. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process: http://openaccess.thecvf.com/content/CVPR2023/html/Li_Generalized_Deep_3D_Shape_Prior_via_Part-Discretized_Diffusion_Process_CVPR_2023_paper.html
 9. PG-RCNN: Semantic Surface Point Generation for 3D Object Detection
+### Survey Papers Related to point cloud completion
+1. Recent advancements in learning algorithms for point clouds: An updated overview
+2. Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis : https://ieeexplore.ieee.org/abstract/document/9857670/
 
 
