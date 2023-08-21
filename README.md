@@ -1,6 +1,6 @@
 # Point Cloud Completion: A survey
 
-Here are works in point cloud completion so far.  
+Here are  all the works in point cloud completion included in our survey(grouped by year of publication).  
 
 ## 2023
 1. Cp3: Unifying point cloud completion by pretrain-prompt-predict paradigm: https://ieeexplore.ieee.org/abstract/document/10097548/
@@ -103,6 +103,17 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 51. Multi-view Based 3D Point Cloud Completion Algorithm for Vehicles: https://ieeexplore.ieee.org/abstract/document/9956459/
 52. Flow-based point cloud completion network with adversarial refinement: https://ieeexplore.ieee.org/abstract/document/9747024/
 53. Cross self-attention network for 3D point cloud: https://www.sciencedirect.com/science/article/pii/S0950705122003616
+54. SO (3) Rotation Equivariant Point Cloud Completion using Attention-based Vector Neurons: https://ieeexplore.ieee.org/abstract/document/10044393/
+55. Shapeformer: Transformer-based shape completion via sparse representation: http://openaccess.thecvf.com/content/CVPR2022/html/Yan_ShapeFormer_Transformer-Based_Shape_Completion_via_Sparse_Representation_CVPR_2022_paper.html
+56. PCUNet: A Context-Aware Deep Network for Coarse-to-Fine Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9797232/
+57. Multistage Adaptive Point-Growth Network for Dense Point Cloud Completion: https://www.mdpi.com/2072-4292/14/20/5214
+58. PS-Net: Point Shift Network for 3-D Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9855527/
+59. Three-stage generative network for single-view point cloud completion: https://link.springer.com/article/10.1007/s00371-021-02301-4
+60. End-to-End Point Cloud Completion Network with Attention Mechanism : https://www.mdpi.com/1424-8220/22/17/6439
+61. Mutual information maximization based similarity operation for 3D point cloud completion network : https://ieeexplore.ieee.org/abstract/document/9741313/
+62. 3D Meteorological Radar Data Visualization with Point Cloud Completion and Poisson Surface Reconstruction: https://link.springer.com/chapter/10.1007/978-3-031-18913-5_11
+63. DF-Net: Dynamic and Folding Network for 3D Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9885176/
+64. Autosdf: Shape priors for 3d completion, reconstruction and generation: http://openaccess.thecvf.com/content/CVPR2022/html/Mittal_AutoSDF_Shape_Priors_for_3D_Completion_Reconstruction_and_Generation_CVPR_2022_paper.html
 
 
 
@@ -179,8 +190,17 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 7. https://ieeexplore.ieee.org/abstract/document/10086697/
 8. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process: http://openaccess.thecvf.com/content/CVPR2023/html/Li_Generalized_Deep_3D_Shape_Prior_via_Part-Discretized_Diffusion_Process_CVPR_2023_paper.html
 9. PG-RCNN: Semantic Surface Point Generation for 3D Object Detection
-### Survey Papers Related to point cloud completion
+    
+## Survey Papers Related to point cloud completion
 1. Recent advancements in learning algorithms for point clouds: An updated overview
 2. Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis : https://ieeexplore.ieee.org/abstract/document/9857670/
+3. Transformers in 3d point clouds: A survey: https://arxiv.org/abs/2205.07417
+4. Inception-based Deep Learning Architecture for 3D Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/9959483/
+5. Cf-net: Complementary fusion network for rotation invariant point cloud completion: https://ieeexplore.ieee.org/abstract/document/9746388/
+
+## point cloud pretraining
+1. Point-m2ae: multi-scale masked autoencoders for hierarchical point cloud pre-training
+2. Ponder: Point cloud pre-training via neural rendering: https://arxiv.org/abs/2301.00157
+3. Point cloud pre-training with natural 3D structures: Point cloud pre-training with natural 3D structures
 
 
