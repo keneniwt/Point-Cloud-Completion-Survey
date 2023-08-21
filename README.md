@@ -143,6 +143,10 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 23.  Task-Aware Sampling Layer for Point-Wise Analysis : https://ieeexplore.ieee.org/abstract/document/9767766/
 24.  View-Guided Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2021/html/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.html
 25.  RFNet: Recurrent Forward Network for Dense Point Cloud Completion: http://openaccess.thecvf.com/content/ICCV2021/html/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.html
+26. Pctma-net: Point cloud transformer with morphing atlas-based point generation network for dense point cloud completion : https://ieeexplore.ieee.org/abstract/document/9636483/
+27. Point cloud completion using multiscale feature fusion and cross-regional attention : https://www.sciencedirect.com/science/article/pii/S0262885621000986
+28. FinerPCN: High fidelity point cloud completion network using pointwise convolution : https://www.sciencedirect.com/science/article/pii/S0925231221010109
+29. Towards point cloud completion: Point rank sampling and cross-cascade graph cnn : https://www.sciencedirect.com/science/article/pii/S0925231221010791
 
 ## 2020
 1. N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-Stage Network: https://dl.acm.org/doi/abs/10.1145/3436369.3437421?casa_token=lmlYPwjPJjgAAAAA:88cyrxkqf333AU2NBecRmPWKba4oGrniUGnIPOd7U7_69Or_Dh7X7FTtYK7g1RHtqCylhFz6mnw
@@ -199,8 +203,9 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 5. Cf-net: Complementary fusion network for rotation invariant point cloud completion: https://ieeexplore.ieee.org/abstract/document/9746388/
 
 ## point cloud pretraining
-1. Point-m2ae: multi-scale masked autoencoders for hierarchical point cloud pre-training
+1. Point-m2ae: multi-scale masked autoencoders for hierarchical point cloud pre-training : https://proceedings.neurips.cc/paper_files/paper/2022/hash/ad1d7a4df30a9c0c46b387815a774a84-Abstract-Conference.html
 2. Ponder: Point cloud pre-training via neural rendering: https://arxiv.org/abs/2301.00157
-3. Point cloud pre-training with natural 3D structures: Point cloud pre-training with natural 3D structures
+3. Point cloud pre-training with natural 3D structures: http://openaccess.thecvf.com/content/CVPR2022/html/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.html
+4. Unsupervised point cloud pre-training via occlusion completion: http://openaccess.thecvf.com/content/ICCV2021/html/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.html
 
 
