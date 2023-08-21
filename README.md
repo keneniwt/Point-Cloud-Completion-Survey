@@ -85,7 +85,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 32. Partial-to-Partial Point Generation Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/9904825/
 33. Point cloud completion via skeleton-detail transformer: https://ieeexplore.ieee.org/abstract/document/9804851/
 34. Multi-Scope Feature Extraction for Intracranial Aneurysm 3D Point Cloud Completion: https://www.mdpi.com/2073-4409/11/24/4107
-35. Optimization over disentangled encoding: Unsupervised cross-domain point cloud completion via occlusion factor manipulation: https://link.springer.com/chapter/10.1007/978-3-031-20086-1_30
+35. Optimization over disentangled encoding: Unsupervised cross-domain point cloud completion via occlusion factor manipulation: https://link.springer.com/chapter/10.1007/978-3-031-20086-1_30 
 36.  Growth parameter acquisition and geometric point cloud completion of lettuce: https://www.frontiersin.org/articles/10.3389/fpls.2022.947690/full
 37. Unsupervised Point Cloud Completion and Segmentation by Generative Adversarial Autoencoding Network: https://proceedings.neurips.cc/paper_files/paper/2022/hash/171846d7af5ea91e63db508154eaffe8-Abstract-Conference.html
 38. Cyclic Global Guiding Network for Point Cloud Completion: https://www.mdpi.com/2072-4292/14/14/3316
