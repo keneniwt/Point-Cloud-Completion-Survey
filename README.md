@@ -147,6 +147,18 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 27. Point cloud completion using multiscale feature fusion and cross-regional attention : https://www.sciencedirect.com/science/article/pii/S0262885621000986
 28. FinerPCN: High fidelity point cloud completion network using pointwise convolution : https://www.sciencedirect.com/science/article/pii/S0925231221010109
 29. Towards point cloud completion: Point rank sampling and cross-cascade graph cnn : https://www.sciencedirect.com/science/article/pii/S0925231221010791
+30. Dense point cloud completion based on generative adversarial network : https://ieeexplore.ieee.org/abstract/document/9528913/
+31. Relationship-based point cloud completion : https://ieeexplore.ieee.org/abstract/document/9528986/
+32. Automated building change detection with amodal completion of point clouds : https://www.sciencedirect.com/science/article/pii/S0926580521000194
+33. ASHF-Net: Adaptive sampling and hierarchical folding network for robust point cloud completion : https://ojs.aaai.org/index.php/AAAI/article/view/16478
+34. MM-Flow: Multi-modal flow network for point cloud completion : https://dl.acm.org/doi/abs/10.1145/3474085.3475478
+35. 3d shape generation and completion through point-voxel diffusion : http://openaccess.thecvf.com/content/ICCV2021/html/Zhou_3D_Shape_Generation_and_Completion_Through_Point-Voxel_Diffusion_ICCV_2021_paper.html
+36.  Contrastive learning for 3d point clouds classification and shape completion : https://www.mdpi.com/1424-8220/21/21/7392
+37.  VPC-Net: Completion of 3D vehicles from MLS point clouds : https://www.sciencedirect.com/science/article/pii/S0924271621000344
+38.  LRA-Net: local region attention network for 3D point cloud completion : https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11605/2586422/LRA-Net--local-region-attention-network-for-3D-point/10.1117/12.2586422.short
+39.  3d grid transformation network for point cloud completion : https://ieeexplore.ieee.org/abstract/document/9506234/
+40. Cross-regional attention network for point cloud completion : https://ieeexplore.ieee.org/abstract/document/9413104/
+41. ME-PCN: Point completion conditioned on mask emptiness : http://openaccess.thecvf.com/content/ICCV2021/html/Gong_ME-PCN_Point_Completion_Conditioned_on_Mask_Emptiness_ICCV_2021_paper.html
 
 ## 2020
 1. N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-Stage Network: https://dl.acm.org/doi/abs/10.1145/3436369.3437421?casa_token=lmlYPwjPJjgAAAAA:88cyrxkqf333AU2NBecRmPWKba4oGrniUGnIPOd7U7_69Or_Dh7X7FTtYK7g1RHtqCylhFz6mnw
@@ -167,16 +179,27 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 16. PatchNets: Patch-Based Generalizable Deep Implicit 3D Shape Representations : https://link.springer.com/chapter/10.1007/978-3-030-58517-4_18
 17. Point Cloud Completion by Skip-attention Network with Hierarchical Folding : http://openaccess.thecvf.com/content_CVPR_2020/html/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.html
 18. 3dDepthNet: Point Cloud Guided Depth Completion Network for Sparse Depth and Single Color Image: https://arxiv.org/abs/2003.09175
+19. ECG: Edge-aware point cloud completion with graph convolution : https://ieeexplore.ieee.org/abstract/document/9093117/
+20. SAUM: Symmetry-aware upsampling module for consistent point cloud completion : https://openaccess.thecvf.com/content/ACCV2020/html/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.html
+21. Sparse-to-dense multi-encoder shape completion of unstructured point cloud : https://ieeexplore.ieee.org/abstract/document/8990130/
+22. Vaccine-style-net: Point cloud completion in implicit continuous function space: https://dl.acm.org/doi/abs/10.1145/3394171.3413648
+23. DepthNet: Real-time LiDAR point cloud depth completion for autonomous vehicles : https://ieeexplore.ieee.org/abstract/document/9298752/
 
 ## 2019
 
-1. TopNet: http://openaccess.thecvf.com/content_CVPR_2019/html/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.html
+1. Topnet: Structural point cloud decoder:  http://openaccess.thecvf.com/content_CVPR_2019/html/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.html
 2. Morphing and Sampling Network for Dense Point Cloud Completion : https://ojs.aaai.org/index.php/AAAI/article/view/6827
+3. High fidelity semantic shape completion for point clouds using latent optimization : https://ieeexplore.ieee.org/abstract/document/8658987/
+4. Data-Driven Point cloud objects completion: https://www.mdpi.com/1424-8220/19/7/1514
+5. Deep neural network for 3D point cloud completion with multistage loss function : https://ieeexplore.ieee.org/abstract/document/8832956/
 
 ## 2018
 1. AtlasNet: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
 2. PCN: https://ieeexplore.ieee.org/abstract/document/8491026/?casa_token=rAfDB1LIASkAAAAA:Aqsfq5kk8f1LL0_m1M_4dyHfvjwkieHtAb6xzXVhQqqwrR2Tz1vR0Hnnr4kiuoOA-NynGP9x
 3. PU-Net: http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_PU-Net_Point_Cloud_CVPR_2018_paper.html
+  
+## 2017
+1. Shape-controllable geometry completion for point cloud models: https://link.springer.com/article/10.1007/s00371-016-1208-1
 
 ## 2015
 1) Procedural Editing of 3D Building Point Clouds: http://openaccess.thecvf.com/content_iccv_2015/html/Demir_Procedural_Editing_of_ICCV_2015_paper.html
@@ -201,6 +224,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 3. Transformers in 3d point clouds: A survey: https://arxiv.org/abs/2205.07417
 4. Inception-based Deep Learning Architecture for 3D Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/9959483/
 5. Cf-net: Complementary fusion network for rotation invariant point cloud completion: https://ieeexplore.ieee.org/abstract/document/9746388/
+6. Deep learning for 3D point cloud understanding: A survey
 
 ## point cloud pretraining
 1. Point-m2ae: multi-scale masked autoencoders for hierarchical point cloud pre-training : https://proceedings.neurips.cc/paper_files/paper/2022/hash/ad1d7a4df30a9c0c46b387815a774a84-Abstract-Conference.html
