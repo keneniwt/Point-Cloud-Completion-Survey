@@ -18,7 +18,7 @@
 1. N-DPC: Dense 3D Point Cloud Completion Based on Improved Multi-Stage Network: https://dl.acm.org/doi/abs/10.1145/3436369.3437421?casa_token=lmlYPwjPJjgAAAAA:88cyrxkqf333AU2NBecRmPWKba4oGrniUGnIPOd7U7_69Or_Dh7X7FTtYK7g1RHtqCylhFz6mnw
 2. Morphing and Sampling Network for Dense Point Cloud Completion: https://ojs.aaai.org/index.php/AAAI/article/view/6827
 3. Multi-stage point completion network with critical set supervision: https://www.sciencedirect.com/science/article/pii/S0167839620301126?casa_token=tIzTUjJ0RYgAAAAA:9RQDqlZZzhbvOPtgcV2BGC87bu5bntQjR2sZaAkHrkWoAM9KFVDgBKJ9lsK5miRXeqSg-GzP
-4. RL-GAN-Net: http://openaccess.thecvf.com/content_CVPR_2019/html/Sarmad_RL-GAN-Net_A_Reinforcement_Learning_Agent_Controlled_GAN_Network_for_Real-Time_CVPR_2019_paper.html
+4. RL-GAN-Net:  A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion: http://openaccess.thecvf.com/content_CVPR_2019/html/Sarmad_RL-GAN-Net_A_Reinforcement_Learning_Agent_Controlled_GAN_Network_for_Real-Time_CVPR_2019_paper.html
 5. Cascaded Refinement Network for Point Cloud Completion with Self-supervision: https://ieeexplore.ieee.org/abstract/document/9525242/
 6. Refinement of Predicted Missing Parts Enhance Point Cloud Completion:  https://arxiv.org/abs/2010.04278
 7. SoftPoolNet: Shape Descriptor for Point Cloud Completion and Classification : https://link.springer.com/chapter/10.1007/978-3-030-58580-8_5
