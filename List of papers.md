@@ -5,7 +5,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 ## 2023
 1. ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion http://openaccess.thecvf.com/content/CVPR2023/html/Hong_ACL-SPC_Adaptive_Closed-Loop_System_for_Self-Supervised_Point_Cloud_Completion_CVPR_2023_paper.html 
 2. SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator. ICCV 2023 : https://arxiv.org/abs/2307.08492
-3. AnchorFormer: Point Cloud Completion From Discriminative Nodes: http://openaccess.thecvf.com/content/CVPR2023/html/Chen_AnchorFormer_Point_Cloud_Completion_From_Discriminative_Nodes_CVPR_2023_paper.html
+3. AnchorFormer: Point Cloud Completion From Discriminative Nodes:  http://openaccess.thecvf.com/content/CVPR2023/html/Chen_AnchorFormer_Point_Cloud_Completion_From_Discriminative_Nodes_CVPR_2023_paper.html
 4. DcTR: Noise-robust point cloud completion by dual-channel transformer with cross-attention: https://www.sciencedirect.com/science/article/pii/S0031320322005313
 5. Cp3: Unifying point cloud completion by pretrain-prompt-predict paradigm: https://ieeexplore.ieee.org/abstract/document/10097548/
 6. ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer: http://openaccess.thecvf.com/content/CVPR2023/html/Li_ProxyFormer_Proxy_Alignment_Assisted_Point_Cloud_Completion_With_Missing_Part_CVPR_2023_paper.html
