@@ -18,7 +18,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 13. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
 14. 3D Point Cloud Completion Based on Multi-Scale Degradation: https://ieeexplore.ieee.org/iel7/10094559/10094560/10095460.pdf
 15. Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking: https://ieeexplore.ieee.org/abstract/document/10043001/
-16. Point Cloud Diffusion Models for Automatic Implant Generation: https://arxiv.org/abs/2303.08061
+16. Point cloud completion via structured feature maps using a feedback network: https://link.springer.com/article/10.1007/s41095-022-0276-6
 17. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process:
 18. Bilateral Coarse-to-Fine Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10095048/
 19. P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds: https://arxiv.org/abs/2307.147261)
@@ -44,7 +44,6 @@ Here are  all the works in point cloud completion included in our survey(grouped
 39. Multi-space and detail-supplemented attention network for point cloud completion : https://link.springer.com/article/10.1007/s10489-022-04219-3
 40. High-fidelity point cloud completion with low-resolution recovery and noise-aware upsampling: https://www.sciencedirect.com/science/article/pii/S1524070323000048
 41. Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN: https://asmedigitalcollection.asme.org/computingengineering/article-abstract/23/4/041008/1155799
-42. Point cloud completion via structured feature maps using a feedback network: https://link.springer.com/article/10.1007/s41095-022-0276-6
 
 
 ## 2022
