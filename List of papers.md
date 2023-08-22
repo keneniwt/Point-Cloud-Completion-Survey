@@ -10,7 +10,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 5. Cp3: Unifying point cloud completion by pretrain-prompt-predict paradigm: https://ieeexplore.ieee.org/abstract/document/10097548/
 6. ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer: http://openaccess.thecvf.com/content/CVPR2023/html/Li_ProxyFormer_Proxy_Alignment_Assisted_Point_Cloud_Completion_With_Missing_Part_CVPR_2023_paper.html
 7. Learning Geometric Transformation for Point Cloud Completion: https://link.springer.com/article/10.1007/s11263-023-01820-y
-8. Symmetric Shape-Preserving Autoencoder for Unsupervised Real Scene Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2023/html/Ma_Symmetric_Shape-Preserving_Autoencoder_for_Unsupervised_Real_Scene_Point_Cloud_Completion_CVPR_2023_paper.html
+8. Symmetric Shape-Preserving Autoencoder for Unsupervised Real Scene Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2023/html/Ma_Symmetric_Shape-Preserving_Autoencoder_for_Unsupervised_Real_Scene_Point_Cloud_Completion_CVPR_2023_paper.html 
 9. Fast Point Cloud Generation with Straight Flows: http://openaccess.thecvf.com/content/CVPR2023/html/Wu_Fast_Point_Cloud_Generation_With_Straight_Flows_CVPR_2023_paper.html
 10. AdaPoinTr:Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers: https://arxiv.org/abs/2301.04545
 11. CSDN: Cross-Modal Shape-Transfer Dual-Refinement Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10015045/
