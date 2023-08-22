@@ -29,7 +29,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 24. Point2PartVolume: Human Body Volume Estimation from A Single Depth Image: https://ieeexplore.ieee.org/abstract/document/10147789/
 25. Null-Space Diffusion Sampling for Zero-Shot Point Cloud Completion:https://www.ijcai.org/proceedings/2023/0069.pdf
 26. High-Resolution Cranial Defect Reconstruction by Iterative, Low-Resolution, Point Cloud Completion Transformers:https://arxiv.org/abs/2308.03813
-27. Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images: https://arxiv.org/abs/2307.08535
+27. Sdfusion: Multimodal 3d shape completion, reconstruction, and generation: http://openaccess.thecvf.com/content/CVPR2023/html/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.html
 28. Point-Cloud Completion with Pretrained Text-to-image Diffusion Models:https://arxiv.org/abs/2306.10533
 29. Point-PC: Point Cloud Completion Guided by Prior Knowledge via Causal Inference: https://arxiv.org/pdf/2305.17770v1.pdf
 30. DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion: https://arxiv.org/pdf/2305.09132v1.pdf
@@ -45,7 +45,6 @@ Here are  all the works in point cloud completion included in our survey(grouped
 40. High-fidelity point cloud completion with low-resolution recovery and noise-aware upsampling: https://www.sciencedirect.com/science/article/pii/S1524070323000048
 41. Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN: https://asmedigitalcollection.asme.org/computingengineering/article-abstract/23/4/041008/1155799
 42. Point cloud completion via structured feature maps using a feedback network: https://link.springer.com/article/10.1007/s41095-022-0276-6
-43. Sdfusion: Multimodal 3d shape completion, reconstruction, and generation: http://openaccess.thecvf.com/content/CVPR2023/html/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.html
 
 
 ## 2022
