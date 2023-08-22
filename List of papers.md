@@ -27,7 +27,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 22. TSEnet(Object Detection of Occlusion Point Cloud based on Transformer): https://ieeexplore.ieee.org/abstract/document/10191240/
 23. GTNet(Learning Geometric Transformation for Point Cloud Completion): https://link.springer.com/article/10.1007/s11263-023-01820-y
 24. Point2PartVolume: Human Body Volume Estimation from A Single Depth Image: https://ieeexplore.ieee.org/abstract/document/10147789/
-25. Null-Space Diffusion Sampling for Zero-Shot Point Cloud Completion:https://www.ijcai.org/proceedings/2023/0069.pdf
+25. Null-Space Diffusion Sampling for Zero-Shot Point Cloud Completion:https://www.ijcai.org/proceedings/2023/0069.pdf 
 26. High-Resolution Cranial Defect Reconstruction by Iterative, Low-Resolution, Point Cloud Completion Transformers:https://arxiv.org/abs/2308.03813
 27. Sdfusion: Multimodal 3d shape completion, reconstruction, and generation: http://openaccess.thecvf.com/content/CVPR2023/html/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.html
 28. Point-Cloud Completion with Pretrained Text-to-image Diffusion Models:https://arxiv.org/abs/2306.10533
