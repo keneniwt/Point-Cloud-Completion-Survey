@@ -1,6 +1,6 @@
 # Point Cloud Completion: A survey 
 
-Here are  all the works in point cloud completion included in our survey(grouped by year of publication).   
+Here are  all the works in point cloud completion included in our survey(grouped by year of publication).    
 
 ## 2023
 1. ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion http://openaccess.thecvf.com/content/CVPR2023/html/Hong_ACL-SPC_Adaptive_Closed-Loop_System_for_Self-Supervised_Point_Cloud_Completion_CVPR_2023_paper.html 
