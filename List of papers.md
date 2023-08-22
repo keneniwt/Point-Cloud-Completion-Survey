@@ -183,8 +183,9 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 22. Vaccine-style-net: Point cloud completion in implicit continuous function space: https://dl.acm.org/doi/abs/10.1145/3394171.3413648
 23. DepthNet: Real-time LiDAR point cloud depth completion for autonomous vehicles : https://ieeexplore.ieee.org/abstract/document/9298752/
 24. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17
-    
-    
+25. Skpcn: Skeleton-bridged point completion: From global inference to local adjustment: https://proceedings.neurips.cc/paper_files/paper/2020/file/ba036d228858d76fb89189853a5503bd-Paper.pdf
+26. Weakly-supervised {3D} shape completion in the wild: https://link.springer.com/chapter/10.1007/978-3-030-58558-7_17
+     
 
 ## 2019
 
@@ -195,9 +196,10 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 5. Deep neural network for 3D point cloud completion with multistage loss function : https://ieeexplore.ieee.org/abstract/document/8832956/
 
 ## 2018
-1. AtlasNet: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
-2. PCN: https://ieeexplore.ieee.org/abstract/document/8491026/?casa_token=rAfDB1LIASkAAAAA:Aqsfq5kk8f1LL0_m1M_4dyHfvjwkieHtAb6xzXVhQqqwrR2Tz1vR0Hnnr4kiuoOA-NynGP9x
-3. PU-Net: http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_PU-Net_Point_Cloud_CVPR_2018_paper.html
+1. AtlasNet:A papier-mâché approach to learning 3d surface generation: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
+2. PCN:Point completion network: https://ieeexplore.ieee.org/abstract/document/8491026/?casa_token=rAfDB1LIASkAAAAA:Aqsfq5kk8f1LL0_m1M_4dyHfvjwkieHtAb6xzXVhQqqwrR2Tz1vR0Hnnr4kiuoOA-NynGP9x
+3. PU-Net: Point cloud upsampling network: http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_PU-Net_Point_Cloud_CVPR_2018_paper.html
+4. Foldingnet: Point cloud auto-encoder via deep grid deformation: http://openaccess.thecvf.com/content_cvpr_2018/html/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.html
   
 ## 2017
 1. Shape-controllable geometry completion for point cloud models: https://link.springer.com/article/10.1007/s00371-016-1208-1
