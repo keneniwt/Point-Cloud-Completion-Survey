@@ -124,7 +124,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 4. Axform:Attention-based Transformation from Latent Features to Point Clouds: https://ojs.aaai.org/index.php/AAAI/article/view/20238
 5. A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion: https://arxiv.org/abs/2112.03530
 6. Balanced Chamfer Distance as a Comprehensive Metric for Point Cloud Completion: https://proceedings.neurips.cc/paper/2021/hash/f3bd5ad57c8389a8a1a541a76be463bf-Abstract.html
-7.KTNet: Knowledge Transfer for Unpaired 3D Shape Completion : https://ojs.aaai.org/index.php/AAAI/article/view/25101
+7. KTNet: Knowledge Transfer for Unpaired 3D Shape Completion : https://ojs.aaai.org/index.php/AAAI/article/view/25101
 8. Self-Supervised Point Cloud Completion via Inpainting: https://arxiv.org/abs/2111.10701
 9. TreeGCN-ED: Encoding Point Cloud using a Tree-Structured Graph Network: https://arxiv.org/abs/2110.03170
 10. Voxel-based Network for Shape Completion by Leveraging Edge Generation: http://openaccess.thecvf.com/content/ICCV2021/html/Wang_Voxel-Based_Network_for_Shape_Completion_by_Leveraging_Edge_Generation_ICCV_2021_paper.html
@@ -132,8 +132,8 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 12. ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion : https://dl.acm.org/doi/abs/10.1145/3474085.3475348
 13. Denoise and Contrast for Category Agnostic Shape Completion : http://openaccess.thecvf.com/content/CVPR2021/html/Alliegro_Denoise_and_Contrast_for_Category_Agnostic_Shape_Completion_CVPR_2021_paper.html
 14. Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding : http://openaccess.thecvf.com/content/CVPR2021/html/Wen_Cycle4Completion_Unpaired_Point_Cloud_Completion_Using_Cycle_Transformation_With_Missing_CVPR_2021_paper.html
-15.Style-based Point Generator with Adversarial Rendering for Point Cloud Completion : http://openaccess.thecvf.com/content/CVPR2021/html/Xie_Style-Based_Point_Generator_With_Adversarial_Rendering_for_Point_Cloud_Completion_CVPR_2021_paper.html
-16. HyperPocket: Generative Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9981829/
+15. Style-based Point Generator with Adversarial Rendering for Point Cloud Completion : http://openaccess.thecvf.com/content/CVPR2021/html/Xie_Style-Based_Point_Generator_With_Adversarial_Rendering_for_Point_Cloud_Completion_CVPR_2021_paper.html
+16.  HyperPocket: Generative Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9981829/
 17.  Deep Point Cloud Reconstruction: https://arxiv.org/abs/2111.11704
 18.  Graph-Guided Deformation for Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9484752/
 19.  3D Point Cloud Completion with Geometric-Aware Adversarial Augmentation: https://ieeexplore.ieee.org/abstract/document/9956045/
@@ -185,6 +185,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 22. Vaccine-style-net: Point cloud completion in implicit continuous function space: https://dl.acm.org/doi/abs/10.1145/3394171.3413648
 23. DepthNet: Real-time LiDAR point cloud depth completion for autonomous vehicles : https://ieeexplore.ieee.org/abstract/document/9298752/
 24. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17
+    
     
 
 ## 2019
