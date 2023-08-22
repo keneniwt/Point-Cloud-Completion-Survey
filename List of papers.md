@@ -199,7 +199,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 1. AtlasNet:A papier-mâché approach to learning 3d surface generation: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
 2. PCN:Point completion network: https://ieeexplore.ieee.org/abstract/document/8491026/?casa_token=rAfDB1LIASkAAAAA:Aqsfq5kk8f1LL0_m1M_4dyHfvjwkieHtAb6xzXVhQqqwrR2Tz1vR0Hnnr4kiuoOA-NynGP9x
 3. PU-Net: Point cloud upsampling network: http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_PU-Net_Point_Cloud_CVPR_2018_paper.html
-4. Foldingnet: Point cloud auto-encoder via deep grid deformation: http://openaccess.thecvf.com/content_cvpr_2018/html/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.html
+
   
 ## 2017
 1. Shape-controllable geometry completion for point cloud models: https://link.springer.com/article/10.1007/s00371-016-1208-1
