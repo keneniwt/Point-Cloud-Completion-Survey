@@ -15,8 +15,8 @@ Here are  all the works in point cloud completion included in our survey(grouped
 10. AdaPoinTr:Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers: https://arxiv.org/abs/2301.04545
 11. CSDN: Cross-Modal Shape-Transfer Dual-Refinement Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10015045/
 12. MVPCC-NET:Multi-View Based Point Cloud Completion Network for MLS data: https://www.sciencedirect.com/science/article/pii/S0262885623000495
-13. Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images: https://arxiv.org/abs/2307.08535
-14. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
+13. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
+14. 3D Point Cloud Completion Based on Multi-Scale Degradation: https://ieeexplore.ieee.org/iel7/10094559/10094560/10095460.pdf
 15. Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking: https://ieeexplore.ieee.org/abstract/document/10043001/
 16. Point Cloud Diffusion Models for Automatic Implant Generation: https://arxiv.org/abs/2303.08061
 17. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process:
@@ -47,7 +47,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 42. Point cloud completion via structured feature maps using a feedback network: https://link.springer.com/article/10.1007/s41095-022-0276-6
 43. Sdfusion: Multimodal 3d shape completion, reconstruction, and generation: http://openaccess.thecvf.com/content/CVPR2023/html/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.html
 44. Bilateral Coarse-to-Fine Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10095048/
-45. 3D Point Cloud Completion Based on Multi-Scale Degradation: https://ieeexplore.ieee.org/iel7/10094559/10094560/10095460.pdf
+
 
 ## 2022
 1. PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths: https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
