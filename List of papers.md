@@ -59,7 +59,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 7. Shape Completion with Points in the Shadow : https://paperswithcode.com/paper/shape-completion-with-points-in-the-shadow
 8. SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer: https://link.springer.com/chapter/10.1007/978-3-031-20062-5_24
 9. Spotlights: Probing Shapes from Spherical Viewpoints: https://openaccess.thecvf.com/content/ACCV2022/html/Wei_Spotlights_Probing_Shapes_from_Spherical_Viewpoints_ACCV_2022_paper.html
-10.LAKe-Net: Topology-Aware Point Cloud Completion by Localizing Aligned Keypoints: http://openaccess.thecvf.com/content/CVPR2022/html/Tang_LAKe-Net_Topology-Aware_Point_Cloud_Completion_by_Localizing_Aligned_Keypoints_CVPR_2022_paper.html
+10. LAKe-Net: Topology-Aware Point Cloud Completion by Localizing Aligned Keypoints: http://openaccess.thecvf.com/content/CVPR2022/html/Tang_LAKe-Net_Topology-Aware_Point_Cloud_Completion_by_Localizing_Aligned_Keypoints_CVPR_2022_paper.html
 11. PointAttN: You Only Need Attention for Point Cloud Completion: https://arxiv.org/abs/2203.08485
 12. Towards realistic symmetry-based completion of previously unseen point clouds : https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/html/Rumezhak_Towards_Realistic_Symmetry-Based_Completion_of_Previously_Unseen_Point_Clouds_ICCVW_2021_paper.html
 13. Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion: https://arxiv.org/abs/2212.00564
