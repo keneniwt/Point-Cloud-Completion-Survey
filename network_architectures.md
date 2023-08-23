@@ -10,7 +10,6 @@
 1. PCCNet: Data-Driven Point cloud objects completion: https://www.mdpi.com/1424-8220/19/7/1514
 2. DepthNet: Real-time LiDAR point cloud depth completion for autonomous vehicles : https://ieeexplore.ieee.org/abstract/document/9298752/
 ### point-based
-
 1. AtlasNet:A papier-mâché approach to learning 3d surface generation: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
 2. PCN:Point completion network: https://ieeexplore.ieee.org/abstract/document/8491026/?casa_token=rAfDB1LIASkAAAAA:Aqsfq5kk8f1LL0_m1M_4dyHfvjwkieHtAb6xzXVhQqqwrR2Tz1vR0Hnnr4kiuoOA-NynGP9x
 3. Topnet: Structural point cloud decoder:  http://openaccess.thecvf.com/content_CVPR_2019/html/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.html
@@ -18,6 +17,8 @@
 5. Deep neural network for 3D point cloud completion with multistage loss function : https://ieeexplore.ieee.org/abstract/document/8832956/
 6. Skpcn: Skeleton-bridged point completion: From global inference to local adjustment: https://proceedings.neurips.cc/paper_files/paper/2020/file/ba036d228858d76fb89189853a5503bd-Paper.pdf
 7. Sparse-to-dense multi-encoder shape completion of unstructured point cloud : https://ieeexplore.ieee.org/abstract/document/8990130/
+8. SAUM: Symmetry-aware upsampling module for consistent point cloud completion : https://openaccess.thecvf.com/content/ACCV2020/html/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.html
+   
 ### Graph-based
 ### Generative Model Based
 #### GAN-based
