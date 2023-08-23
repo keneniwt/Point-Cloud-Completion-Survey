@@ -1,5 +1,14 @@
-## Learning-Based Completion
-### Supervised Methods
+# Learning-Based Completion
+## Supervised Methods
+### convolution-based
+### point-based
+### Graph-based
+### Generative Model Based
+#### GAN-based
+#### VAE-based
+#### Diffusion-models
+### Transformer-Based
+### Other
 
 ## 2018
 1. AtlasNet:A papier-mâché approach to learning 3d surface generation: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
