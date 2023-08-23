@@ -17,7 +17,7 @@
 4. Morphing and Sampling Network for Dense Point Cloud Completion : https://ojs.aaai.org/index.php/AAAI/article/view/6827
 5. Deep neural network for 3D point cloud completion with multistage loss function : https://ieeexplore.ieee.org/abstract/document/8832956/
 6. Skpcn: Skeleton-bridged point completion: From global inference to local adjustment: https://proceedings.neurips.cc/paper_files/paper/2020/file/ba036d228858d76fb89189853a5503bd-Paper.pdf
-7. 
+7. Sparse-to-dense multi-encoder shape completion of unstructured point cloud : https://ieeexplore.ieee.org/abstract/document/8990130/
 ### Graph-based
 ### Generative Model Based
 #### GAN-based
