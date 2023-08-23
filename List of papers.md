@@ -204,6 +204,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
   
 ## 2017
 1. Shape-controllable geometry completion for point cloud models: https://link.springer.com/article/10.1007/s00371-016-1208-1
+2. High-resolution shape completion using deep neural networks for global structure and local geometry inference: http://openaccess.thecvf.com/content_iccv_2017/html/Han_High-Resolution_Shape_Completion_ICCV_2017_paper.html
 
 ## 2015
 1) Procedural Editing of 3D Building Point Clouds: http://openaccess.thecvf.com/content_iccv_2015/html/Demir_Procedural_Editing_of_ICCV_2015_paper.html
