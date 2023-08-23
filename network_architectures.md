@@ -1,4 +1,7 @@
 # Learning-Based Completion
+## Unsupervised
+### GAN
+1. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17
 ## Weakly-Supervised Methods
 ### Point-based
 1. Weakly-supervised {3D} shape completion in the wild: https://link.springer.com/chapter/10.1007/978-3-030-58558-7_17 
@@ -49,9 +52,6 @@
 21. Sparse-to-dense multi-encoder shape completion of unstructured point cloud : https://ieeexplore.ieee.org/abstract/document/8990130/
 22. Vaccine-style-net: Point cloud completion in implicit continuous function space: https://dl.acm.org/doi/abs/10.1145/3394171.3413648
 23. DepthNet: Real-time LiDAR point cloud depth completion for autonomous vehicles : https://ieeexplore.ieee.org/abstract/document/9298752/
-24. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17
-25. Skpcn: Skeleton-bridged point completion: From global inference to local adjustment: https://proceedings.neurips.cc/paper_files/paper/2020/file/ba036d228858d76fb89189853a5503bd-Paper.pdf
-26. Weakly-supervised {3D} shape completion in the wild: https://link.springer.com/chapter/10.1007/978-3-030-58558-7_17
 
 
 ## 2021
