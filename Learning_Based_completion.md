@@ -179,13 +179,12 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 17. Point Cloud Completion by Skip-attention Network with Hierarchical Folding : http://openaccess.thecvf.com/content_CVPR_2020/html/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.html
 18. 3dDepthNet: Point Cloud Guided Depth Completion Network for Sparse Depth and Single Color Image: https://arxiv.org/abs/2003.09175
 19. ECG: Edge-aware point cloud completion with graph convolution : https://ieeexplore.ieee.org/abstract/document/9093117/
-20. SAUM: Symmetry-aware upsampling module for consistent point cloud completion : https://openaccess.thecvf.com/content/ACCV2020/html/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.html
+20. Weakly-supervised {3D} shape completion in the wild: https://link.springer.com/chapter/10.1007/978-3-030-58558-7_17
 21. SDMENet: Sparse-to-dense multi-encoder shape completion of unstructured point cloud : https://ieeexplore.ieee.org/abstract/document/8990130/
 22. Vaccine-style-net: Point cloud completion in implicit continuous function space: https://dl.acm.org/doi/abs/10.1145/3394171.3413648
 23. DepthNet: Real-time LiDAR point cloud depth completion for autonomous vehicles : https://ieeexplore.ieee.org/abstract/document/9298752/
 24. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17
 25. Skpcn: Skeleton-bridged point completion: From global inference to local adjustment: https://proceedings.neurips.cc/paper_files/paper/2020/file/ba036d228858d76fb89189853a5503bd-Paper.pdf
-26. Weakly-supervised {3D} shape completion in the wild: https://link.springer.com/chapter/10.1007/978-3-030-58558-7_17
      
 
 ## 2019
@@ -222,6 +221,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 7. https://ieeexplore.ieee.org/abstract/document/10086697/
 8. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process: http://openaccess.thecvf.com/content/CVPR2023/html/Li_Generalized_Deep_3D_Shape_Prior_via_Part-Discretized_Diffusion_Process_CVPR_2023_paper.html
 9. PG-RCNN: Semantic Surface Point Generation for 3D Object Detection
+10. SAUM: Symmetry-aware upsampling module for consistent point cloud completion : https://openaccess.thecvf.com/content/ACCV2020/html/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.html
     
 ## Survey Papers Related to point cloud completion
 1. Recent advancements in learning algorithms for point clouds: An updated overview
