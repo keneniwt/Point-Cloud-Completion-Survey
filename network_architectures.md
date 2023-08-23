@@ -17,9 +17,10 @@
 5. Deep neural network for 3D point cloud completion with multistage loss function : https://ieeexplore.ieee.org/abstract/document/8832956/
 6. Skpcn: Skeleton-bridged point completion: From global inference to local adjustment: https://proceedings.neurips.cc/paper_files/paper/2020/file/ba036d228858d76fb89189853a5503bd-Paper.pdf
 7. Sparse-to-dense multi-encoder shape completion of unstructured point cloud : https://ieeexplore.ieee.org/abstract/document/8990130/
-8. SAUM: Symmetry-aware upsampling module for consistent point cloud completion : https://openaccess.thecvf.com/content/ACCV2020/html/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.html
+8. 
    
 ### Graph-based
+1. ECG: Edge-aware point cloud completion with graph convolution : https://ieeexplore.ieee.org/abstract/document/9093117/
 ### Generative Model Based
 #### GAN-based
 1. High fidelity semantic shape completion for point clouds using latent optimization : https://ieeexplore.ieee.org/abstract/document/8658987/
