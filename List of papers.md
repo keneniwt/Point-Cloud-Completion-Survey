@@ -64,7 +64,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 14. PointCA: Evaluating the Robustness of 3D Point Cloud Completion Models Against Adversarial Examples: https://ojs.aaai.org/index.php/AAAI/article/view/25166
 15. SPCNet: Stepwise Point Cloud Completion Network: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14665
 16. Prototype-Aware Heterogeneous Task for Point Cloud Completion: https://arxiv.org/abs/2209.01733
-17. Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking: https://ieeexplore.ieee.org/abstract/document/10043001/
+17. Unsupervised category-specific partial point set registration via joint shape completion and registration: https://ieeexplore.ieee.org/abstract/document/9729524/
 18. Masked Autoencoders in 3D Point Cloud Representation Learning: https://arxiv.org/abs/2207.01545
 19. Temporal Point Cloud Completion with Pose Disturbance : https://ieeexplore.ieee.org/abstract/document/9695368/
 20. SRPCN: Structure Retrieval based Point Completion Network : https://arxiv.org/abs/2202.02669
@@ -112,7 +112,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 62. 3D Meteorological Radar Data Visualization with Point Cloud Completion and Poisson Surface Reconstruction: https://link.springer.com/chapter/10.1007/978-3-031-18913-5_11
 63. DF-Net: Dynamic and Folding Network for 3D Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9885176/
 64. Autosdf: Shape priors for 3d completion, reconstruction and generation: http://openaccess.thecvf.com/content/CVPR2022/html/Mittal_AutoSDF_Shape_Priors_for_3D_Completion_Reconstruction_and_Generation_CVPR_2022_paper.html
-65. Unsupervised category-specific partial point set registration via joint shape completion and registration: https://ieeexplore.ieee.org/abstract/document/9729524/
+65. 
 
 
 
