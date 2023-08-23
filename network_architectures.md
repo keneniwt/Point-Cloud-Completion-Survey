@@ -1,5 +1,6 @@
 # Learning-Based Completion
 ## Weakly-Supervised Methods
+### Point-based
 1. Weakly-supervised {3D} shape completion in the wild: https://link.springer.com/chapter/10.1007/978-3-030-58558-7_17 
 ## Supervised Methods
 ### Convolution-based
