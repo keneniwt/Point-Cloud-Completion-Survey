@@ -1,7 +1,7 @@
 # Learning-Based Completion
 ## Unsupervised
 ### GAN
-1. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17
+1. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17 
 ## Weakly-Supervised Methods
 ### Point-based
 1. Weakly-supervised {3D} shape completion in the wild: https://link.springer.com/chapter/10.1007/978-3-030-58558-7_17 
