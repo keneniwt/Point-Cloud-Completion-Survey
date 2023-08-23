@@ -112,6 +112,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 62. 3D Meteorological Radar Data Visualization with Point Cloud Completion and Poisson Surface Reconstruction: https://link.springer.com/chapter/10.1007/978-3-031-18913-5_11
 63. DF-Net: Dynamic and Folding Network for 3D Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9885176/
 64. Autosdf: Shape priors for 3d completion, reconstruction and generation: http://openaccess.thecvf.com/content/CVPR2022/html/Mittal_AutoSDF_Shape_Priors_for_3D_Completion_Reconstruction_and_Generation_CVPR_2022_paper.html
+65. Unsupervised category-specific partial point set registration via joint shape completion and registration: https://ieeexplore.ieee.org/abstract/document/9729524/
 
 
 
