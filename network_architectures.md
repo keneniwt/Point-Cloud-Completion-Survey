@@ -7,7 +7,8 @@
 1. Weakly-supervised {3D} shape completion in the wild: https://link.springer.com/chapter/10.1007/978-3-030-58558-7_17 
 ## Supervised Methods
 ### Convolution-based
-1. PCCNet: Data-Driven Point cloud objects completion: https://www.mdpi.com/1424-8220/19/7/1514 
+1. PCCNet: Data-Driven Point cloud objects completion: https://www.mdpi.com/1424-8220/19/7/1514
+2. DepthNet: Real-time LiDAR point cloud depth completion for autonomous vehicles : https://ieeexplore.ieee.org/abstract/document/9298752/
 ### point-based
 
 1. AtlasNet:A papier-mâché approach to learning 3d surface generation: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
