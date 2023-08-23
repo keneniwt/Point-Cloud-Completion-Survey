@@ -180,7 +180,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 18. 3dDepthNet: Point Cloud Guided Depth Completion Network for Sparse Depth and Single Color Image: https://arxiv.org/abs/2003.09175
 19. ECG: Edge-aware point cloud completion with graph convolution : https://ieeexplore.ieee.org/abstract/document/9093117/
 20. SAUM: Symmetry-aware upsampling module for consistent point cloud completion : https://openaccess.thecvf.com/content/ACCV2020/html/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.html
-21. Sparse-to-dense multi-encoder shape completion of unstructured point cloud : https://ieeexplore.ieee.org/abstract/document/8990130/
+21. SDMENet: Sparse-to-dense multi-encoder shape completion of unstructured point cloud : https://ieeexplore.ieee.org/abstract/document/8990130/
 22. Vaccine-style-net: Point cloud completion in implicit continuous function space: https://dl.acm.org/doi/abs/10.1145/3394171.3413648
 23. DepthNet: Real-time LiDAR point cloud depth completion for autonomous vehicles : https://ieeexplore.ieee.org/abstract/document/9298752/
 24. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17
