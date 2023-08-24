@@ -1,7 +1,10 @@
 # Learning-Based Completion
 ## Unsupervised
 ### GAN
-1. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17 
+1. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17
+#### Self-Supervised
+##### point-based 
+1. ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion http://openaccess.thecvf.com/content/CVPR2023/html/Hong_ACL-SPC_Adaptive_Closed-Loop_System_for_Self-Supervised_Point_Cloud_Completion_CVPR_2023_paper.html
 ## Weakly-Supervised Methods
 ### Point-based
 1. Weakly-supervised {3D} shape completion in the wild: https://link.springer.com/chapter/10.1007/978-3-030-58558-7_17 
