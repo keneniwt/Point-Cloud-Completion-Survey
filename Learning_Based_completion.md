@@ -15,7 +15,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 10. AdaPoinTr:Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers: https://arxiv.org/abs/2301.04545
 11. CSDN: Cross-Modal Shape-Transfer Dual-Refinement Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10015045/
 12. MVPCC-NET:Multi-View Based Point Cloud Completion Network for MLS data: https://www.sciencedirect.com/science/article/pii/S0262885623000495
-13. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
+13. Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN: https://asmedigitalcollection.asme.org/computingengineering/article-abstract/23/4/041008/1155799
 14. 3D Point Cloud Completion Based on Multi-Scale Degradation: https://ieeexplore.ieee.org/iel7/10094559/10094560/10095460.pdf
 15. Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking: https://ieeexplore.ieee.org/abstract/document/10043001/
 16. Point cloud completion via structured feature maps using a feedback network: https://link.springer.com/article/10.1007/s41095-022-0276-6
@@ -43,7 +43,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 38. A Single-Tree Point Cloud Completion Approach of Feature Fusion for Agricultural Robots: https://www.mdpi.com/2079-9292/12/6/1296
 39. Multi-space and detail-supplemented attention network for point cloud completion : https://link.springer.com/article/10.1007/s10489-022-04219-3
 40. High-fidelity point cloud completion with low-resolution recovery and noise-aware upsampling: https://www.sciencedirect.com/science/article/pii/S1524070323000048
-41. Teeth Mold Point Cloud Completion Via Data Augmentation and Hybrid RL-GAN: https://asmedigitalcollection.asme.org/computingengineering/article-abstract/23/4/041008/1155799
+41. 
 
 
 ## 2022
@@ -237,4 +237,5 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 3. Point cloud pre-training with natural 3D structures: http://openaccess.thecvf.com/content/CVPR2022/html/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.html
 4. Unsupervised point cloud pre-training via occlusion completion: http://openaccess.thecvf.com/content/ICCV2021/html/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.html
 
-
+## Point cloud upsamplers for completion
+1. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
