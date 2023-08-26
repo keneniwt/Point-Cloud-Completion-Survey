@@ -21,7 +21,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 16. Point cloud completion via structured feature maps using a feedback network: https://link.springer.com/article/10.1007/s41095-022-0276-6
 17. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process:
 18. Bilateral Coarse-to-Fine Network for Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10095048/
-19. P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds: https://arxiv.org/abs/2307.147261 
+19. P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds: https://arxiv.org/pdf/2307.14726.pdf 
 20. Point completion by a Stack‐Style Folding Network with multi‐scaled graphical features: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cvi2.12196
 21. Partition-Based Point Cloud Completion Network with Density Refinement: https://www.mdpi.com/1099-4300/25/7/1018
 22. TSEnet(Object Detection of Occlusion Point Cloud based on Transformer): https://ieeexplore.ieee.org/abstract/document/10191240/
