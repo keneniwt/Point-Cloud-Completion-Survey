@@ -193,7 +193,7 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 2. Morphing and Sampling Network for Dense Point Cloud Completion : https://ojs.aaai.org/index.php/AAAI/article/view/6827
 3. High fidelity semantic shape completion for point clouds using latent optimization : https://ieeexplore.ieee.org/abstract/document/8658987/
 4. Data-Driven Point cloud objects completion: https://www.mdpi.com/1424-8220/19/7/1514
-5. Deep neural network for 3D point cloud completion with multistage loss function : https://ieeexplore.ieee.org/abstract/document/8832956/
+5. DepthNet: Deep neural network for 3D point cloud completion with multistage loss function : https://ieeexplore.ieee.org/abstract/document/8832956/
 
 ## 2018
 1. AtlasNet:A papier-mâché approach to learning 3d surface generation: http://openaccess.thecvf.com/content_cvpr_2018/html/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.html
