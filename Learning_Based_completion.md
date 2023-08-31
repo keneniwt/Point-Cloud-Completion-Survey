@@ -43,7 +43,6 @@ Here are  all the works in point cloud completion included in our survey(grouped
 38. A Single-Tree Point Cloud Completion Approach of Feature Fusion for Agricultural Robots: https://www.mdpi.com/2079-9292/12/6/1296
 39. Multi-space and detail-supplemented attention network for point cloud completion : https://link.springer.com/article/10.1007/s10489-022-04219-3
 40. High-fidelity point cloud completion with low-resolution recovery and noise-aware upsampling: https://www.sciencedirect.com/science/article/pii/S1524070323000048
-41. 
 
 
 ## 2022
