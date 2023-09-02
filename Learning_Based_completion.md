@@ -28,7 +28,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 23. GTNet(Learning Geometric Transformation for Point Cloud Completion): https://link.springer.com/article/10.1007/s11263-023-01820-y
 24. Multi-space and detail-supplemented attention network for point cloud completion : https://link.springer.com/article/10.1007/s10489-022-04219-3
 25. Null-Space Diffusion Sampling for Zero-Shot Point Cloud Completion:https://www.ijcai.org/proceedings/2023/0069.pdf 
-26. High-Resolution Cranial Defect Reconstruction by Iterative, Low-Resolution, Point Cloud Completion Transformers:https://arxiv.org/abs/2308.03813
+26. A Single-Tree Point Cloud Completion Approach of Feature Fusion for Agricultural Robots: https://www.mdpi.com/2079-9292/12/6/1296 
 27. Sdfusion: Multimodal 3d shape completion, reconstruction, and generation: http://openaccess.thecvf.com/content/CVPR2023/html/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.html
 28. Point-Cloud Completion with Pretrained Text-to-image Diffusion Models:https://arxiv.org/abs/2306.10533
 29. Point-PC: Point Cloud Completion Guided by Prior Knowledge via Causal Inference: https://arxiv.org/pdf/2305.17770v1.pdf
@@ -40,7 +40,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 35. TreeNet: Structure preserving multi-class 3D point cloud completion: https://www.sciencedirect.com/science/article/pii/S0031320323001760
 36. Distinguishing and Matching-Aware Unsupervised Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10056970/
 37. An improved point cloud completion method based on SnowflakeNet: https://ieeexplore.ieee.org/abstract/document/10145791/
-38. A Single-Tree Point Cloud Completion Approach of Feature Fusion for Agricultural Robots: https://www.mdpi.com/2079-9292/12/6/1296
+38. 
 
 ## 2022
 1. PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths: https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
