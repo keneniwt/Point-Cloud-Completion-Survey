@@ -24,7 +24,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 19. P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds: https://arxiv.org/pdf/2307.14726.pdf 
 20. Point completion by a Stack‐Style Folding Network with multi‐scaled graphical features: https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cvi2.12196
 21. Partition-Based Point Cloud Completion Network with Density Refinement: https://www.mdpi.com/1099-4300/25/7/1018
-22. TSEnet(Object Detection of Occlusion Point Cloud based on Transformer): https://ieeexplore.ieee.org/abstract/document/10191240/
+22. High-fidelity point cloud completion with low-resolution recovery and noise-aware upsampling: https://www.sciencedirect.com/science/article/pii/S1524070323000048
 23. GTNet(Learning Geometric Transformation for Point Cloud Completion): https://link.springer.com/article/10.1007/s11263-023-01820-y
 24. Point2PartVolume: Human Body Volume Estimation from A Single Depth Image: https://ieeexplore.ieee.org/abstract/document/10147789/
 25. Null-Space Diffusion Sampling for Zero-Shot Point Cloud Completion:https://www.ijcai.org/proceedings/2023/0069.pdf 
@@ -42,7 +42,7 @@ Here are  all the works in point cloud completion included in our survey(grouped
 37. An improved point cloud completion method based on SnowflakeNet: https://ieeexplore.ieee.org/abstract/document/10145791/
 38. A Single-Tree Point Cloud Completion Approach of Feature Fusion for Agricultural Robots: https://www.mdpi.com/2079-9292/12/6/1296
 39. Multi-space and detail-supplemented attention network for point cloud completion : https://link.springer.com/article/10.1007/s10489-022-04219-3
-40. High-fidelity point cloud completion with low-resolution recovery and noise-aware upsampling: https://www.sciencedirect.com/science/article/pii/S1524070323000048
+40. 
 
 
 ## 2022
@@ -235,6 +235,10 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 2. Ponder: Point cloud pre-training via neural rendering: https://arxiv.org/abs/2301.00157
 3. Point cloud pre-training with natural 3D structures: http://openaccess.thecvf.com/content/CVPR2022/html/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.html
 4. Unsupervised point cloud pre-training via occlusion completion: http://openaccess.thecvf.com/content/ICCV2021/html/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.html
+
+
+## For occulsion
+1. TSEnet(Object Detection of Occlusion Point Cloud based on Transformer): https://ieeexplore.ieee.org/abstract/document/10191240/
 
 ## Point cloud upsamplers for completion
 1. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
