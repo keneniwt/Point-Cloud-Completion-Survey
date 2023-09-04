@@ -31,16 +31,15 @@ Here are  all the works in point cloud completion included in our survey(grouped
 26. A Single-Tree Point Cloud Completion Approach of Feature Fusion for Agricultural Robots: https://www.mdpi.com/2079-9292/12/6/1296 
 27. Sdfusion: Multimodal 3d shape completion, reconstruction, and generation: http://openaccess.thecvf.com/content/CVPR2023/html/Cheng_SDFusion_Multimodal_3D_Shape_Completion_Reconstruction_and_Generation_CVPR_2023_paper.html
 28. Point-Cloud Completion with Pretrained Text-to-image Diffusion Models:https://arxiv.org/abs/2306.10533
-29. Point-PC: Point Cloud Completion Guided by Prior Knowledge via Causal Inference: https://arxiv.org/pdf/2305.17770v1.pdf
-30. DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion: https://arxiv.org/pdf/2305.09132v1.pdf
-31. VRCNet(Variational Relational Point Completion Network for Robust 3D Classification): https://ieeexplore.ieee.org/abstract/document/10106495/
+29. VRCNet(Variational Relational Point Completion Network for Robust 3D Classification): https://ieeexplore.ieee.org/abstract/document/10106495/
+31. Improving the quality of dental crown using a Transformer-based method: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12463/124633R/Improving-the-quality-of-dental-crown-using-a-transformer-based/10.1117/12.2654350.short
 32. Improving the quality of dental crown using a Transformer-based method: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12463/124633R/Improving-the-quality-of-dental-crown-using-a-transformer-based/10.1117/12.2654350.short
 33. Are All Point Clouds Suitable for Completion? Weakly Supervised Quality Evaluation Network for Point Cloud Completion: https://arxiv.org/abs/2303.01804
 34. Symmetric Shape-Preserving Autoencoder for Unsupervised Real Scene Point Cloud Completion: http://openaccess.thecvf.com/content/CVPR2023/html/Ma_Symmetric_Shape-Preserving_Autoencoder_for_Unsupervised_Real_Scene_Point_Cloud_Completion_CVPR_2023_paper.html
 35. TreeNet: Structure preserving multi-class 3D point cloud completion: https://www.sciencedirect.com/science/article/pii/S0031320323001760
 36. Distinguishing and Matching-Aware Unsupervised Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10056970/
-37. An improved point cloud completion method based on SnowflakeNet: https://ieeexplore.ieee.org/abstract/document/10145791/
-38. 
+37. Point-PC: Point Cloud Completion Guided by Prior Knowledge via Causal Inference: https://arxiv.org/pdf/2305.17770v1.pdf
+38. DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion: https://arxiv.org/pdf/2305.09132v1.pdf
 
 ## 2022
 1. PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths: https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
