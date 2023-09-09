@@ -179,7 +179,8 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 23. DepthNet: Real-time LiDAR point cloud depth completion for autonomous vehicles : https://ieeexplore.ieee.org/abstract/document/9298752/
 24. Multimodal shape completion via conditional generative adversarial networks: https://link.springer.com/chapter/10.1007/978-3-030-58548-8_17
 25. Skpcn: Skeleton-bridged point completion: From global inference to local adjustment: https://proceedings.neurips.cc/paper_files/paper/2020/file/ba036d228858d76fb89189853a5503bd-Paper.pdf
-     
+26. Sa-net: Robust state-action recognition for learning from observations: https://ieeexplore.ieee.org/abstract/document/9197393/?casa_token=G7DiRWTl8wMAAAAA:BxV_pusXwzaAXYDETEwuySyTTwwS8bjYq_Vvlb2K3Xsn5VyLYBCJVFR46N3glpqA7IO0tSyX
+27. 3D shape completion with multi-view consistent inference: https://aaai.org/ojs/index.php/AAAI/article/view/6734    
 
 ## 2019
 
