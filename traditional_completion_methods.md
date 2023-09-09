@@ -1,6 +1,6 @@
 ## Traditional Point Cloud Completion
 
-### Interpolation based Methods
+### Interpolation based Methods 
 1. Poisson surface reconstruction: https://www.cse.iitd.ac.in/~mcs112609/poission.pdf
 2. Euler spiral for shape completion: https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1023/A:1023713602895&casa_token=-5bTkNGQv5QAAAAA:Rw5ylmn7LL_wul6_KBsM5p__g1Bf7VkELxPBSCfAyy-c82-xptrzQjN798-HJ2YHbdLgEezpdm0Lyeg
 3. A survey of surface reconstruction from point clouds : https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12802?casa_token=S-fBBXWQdcMAAAAA:R8NDolKl42rzL0CoYR1be0YEoVZjmiax3y8hsqM4OpM3LVVGReDodReVI0i7DA6zuTRL2hee58e21Q
