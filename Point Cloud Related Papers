@@ -1,0 +1,33 @@
+## Pointcloud completion Related papers
+
+### 2023
+1. PointCA: https://ojs.aaai.org/index.php/AAAI/article/view/25166
+2. Complete to 4D : http://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Complete-to-Partial_4D_Distillation_for_Self-Supervised_Point_Cloud_Sequence_Representation_Learning_CVPR_2023_paper.html
+3. Hyperspherical_Embedding : http://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Hyperspherical_Embedding_for_Point_Cloud_Completion_CVPR_2023_paper.html
+4. Geometric Transformation: https://link.springer.com/article/10.1007/s11263-023-01820-y
+5. Rigid Patterns in PC: https://openaccess.thecvf.com/content/CVPR2023/html/Widdowson_Recognizing_Rigid_Patterns_of_Unlabeled_Point_Clouds_by_Complete_and_CVPR_2023_paper.html
+7. https://ieeexplore.ieee.org/abstract/document/10086697/
+8. 3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process: http://openaccess.thecvf.com/content/CVPR2023/html/Li_Generalized_Deep_3D_Shape_Prior_via_Part-Discretized_Diffusion_Process_CVPR_2023_paper.html
+9. PG-RCNN: Semantic Surface Point Generation for 3D Object Detection
+10. SAUM: Symmetry-aware upsampling module for consistent point cloud completion : https://openaccess.thecvf.com/content/ACCV2020/html/Son_SAUM_Symmetry-Aware_Upsampling_Module_for_Consistent_Point_Cloud_Completion_ACCV_2020_paper.html
+    
+## Survey Papers Related to point cloud completion
+1. Recent advancements in learning algorithms for point clouds: An updated overview
+2. Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis : https://ieeexplore.ieee.org/abstract/document/9857670/
+3. Transformers in 3d point clouds: A survey: https://arxiv.org/abs/2205.07417
+4. Inception-based Deep Learning Architecture for 3D Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/9959483/
+5. Cf-net: Complementary fusion network for rotation invariant point cloud completion: https://ieeexplore.ieee.org/abstract/document/9746388/
+6. Deep learning for 3D point cloud understanding: A survey
+
+## point cloud pretraining
+1. Point-m2ae: multi-scale masked autoencoders for hierarchical point cloud pre-training : https://proceedings.neurips.cc/paper_files/paper/2022/hash/ad1d7a4df30a9c0c46b387815a774a84-Abstract-Conference.html
+2. Ponder: Point cloud pre-training via neural rendering: https://arxiv.org/abs/2301.00157
+3. Point cloud pre-training with natural 3D structures: http://openaccess.thecvf.com/content/CVPR2022/html/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.html
+4. Unsupervised point cloud pre-training via occlusion completion: http://openaccess.thecvf.com/content/ICCV2021/html/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.html
+
+
+## For occulsion
+1. TSEnet(Object Detection of Occlusion Point Cloud based on Transformer): https://ieeexplore.ieee.org/abstract/document/10191240/
+
+## Point cloud upsamplers for completion
+1. Parametric Surface Constrained Upsampler Network for Point Cloud: https://arxiv.org/abs/2303.08240
