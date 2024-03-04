@@ -43,8 +43,6 @@ Here are  all the works in point cloud completion included in our survey(grouped
 38. A Single-Tree Point Cloud Completion Approach of Feature Fusion for Agricultural Robots: https://www.mdpi.com/2079-9292/12/6/1296
 39. Multi-space and detail-supplemented attention network for point cloud completion : https://link.springer.com/article/10.1007/s10489-022-04219-3
 40. High-fidelity point cloud completion with low-resolution recovery and noise-aware upsampling: https://www.sciencedirect.com/science/article/pii/S1524070323000048
-41. 
-
 
 ## 2022
 1. PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths: https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
@@ -112,9 +110,6 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 62. 3D Meteorological Radar Data Visualization with Point Cloud Completion and Poisson Surface Reconstruction: https://link.springer.com/chapter/10.1007/978-3-031-18913-5_11
 63. DF-Net: Dynamic and Folding Network for 3D Point Cloud Completion : https://ieeexplore.ieee.org/abstract/document/9885176/
 64. Autosdf: Shape priors for 3d completion, reconstruction and generation: http://openaccess.thecvf.com/content/CVPR2022/html/Mittal_AutoSDF_Shape_Priors_for_3D_Completion_Reconstruction_and_Generation_CVPR_2022_paper.html
-65. 
-
-
 
 ## 2021
 1. PoinTr: http://openaccess.thecvf.com/content/ICCV2021/html/Yu_PoinTr_Diverse_Point_Cloud_Completion_With_Geometry-Aware_Transformers_ICCV_2021_paper.html
