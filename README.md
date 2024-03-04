@@ -23,7 +23,7 @@ If you find our work useful, please consider citing:
 
 For all papers on point cloud completion included in our survey(grouped by year of publication), please refer to [List_of_Completion_Papers.md](./List_of_Completion_Papers.md). 
 
-For a list of papers on learning-based completion, please refer to [Learning_Based_Completion.md](./Learning_Based_Completion.md).
+For a list of papers on learning-based completion, please refer to [Learning_Based_Completion.md](./Learning_Based_completion.md).
 
 For a list of papers on traditional completion methods, please refer to [traditional_completion_methods.md](./traditional_completion_methods.md). 
 
