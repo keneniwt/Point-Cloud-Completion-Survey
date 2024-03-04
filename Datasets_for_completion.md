@@ -15,6 +15,5 @@
 15. RedWoodDataset: http://redwood-data.org/3dscan/
 16. PASCAL: https://cvgl.stanford.edu/projects/pascal3d.html
 17. ShapeTalk : https://changeit3d.github.io/
-18. 
 
 
