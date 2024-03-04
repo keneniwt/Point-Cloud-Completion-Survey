@@ -1,6 +1,26 @@
 # Point Cloud Completion: A survey 
 
-Here are  all the works in point cloud completion included in our survey(grouped by year of publication). If there are point cloud completion papers that should be included- please let us know :) 
+This is a repository for the survey paper on point cloud completiono : https://ieeexplore.ieee.org/abstract/document/10366848 
+
+## Abstract
+Point cloud completion is the task of producing a complete 3D shape given an input of a partial point cloud. It has become a vital process in 3D computer graphics, vision and applications such as autonomous driving, robotics, and augmented reality. These applications often rely on the presence of a complete 3D representation of the environment. Over the past few years, many completion algorithms have been proposed and a substantial amount of research has been carried out. However, there are not many in-depth surveys that summarise the research progress in such a way that allows users to make an informed choice of what algorithms to employ given the type of data they have, the end result they want, the challenges they may face and the possible strategies they could use. In this study, we present a comprehensive survey and classification of papers on point cloud completion untill August 2023 based on the strategies, techniques, inputs, outputs, and network architectures. We will also cover datasets, evaluation methods, and application areas in point cloud completion. Finally, we discuss challenges faced by the research community and future research directions.
+
+## Citation
+If you find our work useful, please consider citing: 
+```
+@ARTICLE{10366848,
+  author={Tesema, Keneni W. and Hill, Lyndon and Jones, Mark W. and Ahmad, Muneeb I. and Tam, Gary K.L.},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={Point Cloud Completion: A Survey}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-20},
+  keywords={Point cloud compression;Shape;Surveys;Three-dimensional displays;Semantics;Task analysis;Surface reconstruction;Point cloud completion;Deep Learning;Computer Vision},
+  doi={10.1109/TVCG.2023.3344935}}
+```
+
+Here are  all the works in point cloud completion included in our survey(grouped by year of publication). 
 
 ## 2023
 1. ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion http://openaccess.thecvf.com/content/CVPR2023/html/Hong_ACL-SPC_Adaptive_Closed-Loop_System_for_Self-Supervised_Point_Cloud_Completion_CVPR_2023_paper.html 
@@ -232,19 +252,5 @@ http://openaccess.thecvf.com/content/CVPR2022/html/Cai_Learning_a_Structured_Lat
 3. Point cloud pre-training with natural 3D structures: http://openaccess.thecvf.com/content/CVPR2022/html/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.html
 4. Unsupervised point cloud pre-training via occlusion completion: http://openaccess.thecvf.com/content/ICCV2021/html/Wang_Unsupervised_Point_Cloud_Pre-Training_via_Occlusion_Completion_ICCV_2021_paper.html
 
-## Citation
-If you find our work useful, please consider citing: 
-```
-@ARTICLE{10366848,
-  author={Tesema, Keneni W. and Hill, Lyndon and Jones, Mark W. and Ahmad, Muneeb I. and Tam, Gary K.L.},
-  journal={IEEE Transactions on Visualization and Computer Graphics}, 
-  title={Point Cloud Completion: A Survey}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-20},
-  keywords={Point cloud compression;Shape;Surveys;Three-dimensional displays;Semantics;Task analysis;Surface reconstruction;Point cloud completion;Deep Learning;Computer Vision},
-  doi={10.1109/TVCG.2023.3344935}}
-```
 
-
+If there are point cloud completion papers that should be included- please let us know :) 
