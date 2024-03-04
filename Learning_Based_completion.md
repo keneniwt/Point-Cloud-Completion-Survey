@@ -38,7 +38,6 @@ Here are  all the works in point cloud completion included in our survey(grouped
 34. TreeNet: Structure preserving multi-class 3D point cloud completion: https://www.sciencedirect.com/science/article/pii/S0031320323001760
 35. Distinguishing and Matching-Aware Unsupervised Point Cloud Completion: https://ieeexplore.ieee.org/abstract/document/10056970/
 36. Point-PC: Point Cloud Completion Guided by Prior Knowledge via Causal Inference: https://arxiv.org/pdf/2305.17770v1.pdf
-37. 
 
 ## 2022
 1. PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-Step Point Moving Paths: https://ieeexplore.ieee.org/abstract/document/9735342/?casa_token=dUsQ0W-QAgkAAAAA:-E3aIdwQbYMjorbS1sM6p34FaXISSNRdZ4mnJ-sAMYSkHbCGhXO3pEgJ1PCRNxS4QjsjqTjd
