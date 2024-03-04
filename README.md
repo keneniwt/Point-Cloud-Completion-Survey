@@ -25,7 +25,7 @@ For all papers on point cloud completion included in our survey(grouped by year 
 
 For a list of papers on learning-based completion, please refer to [Learning_Based_Completion.md](./Learning_Based_Completion.md).
 
-For a list of papers on traditional completion methods, please refer to [Datasets_for_completion.md](./Datasets_for_completion.md). 
+For a list of papers on traditional completion methods, please refer to [traditional_completion_methods.md](./traditional_completion_methods.md). 
 
 ### Dataset
 
