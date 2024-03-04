@@ -21,7 +21,7 @@ If you find our work useful, please consider citing:
 ```
 ## List  of completion papers
 
-For all papers on point cloud completion included in our survey(grouped by year of publication), please refer to [Datasets_for_completion.md](./Datasets_for_completion.md). 
+For all papers on point cloud completion included in our survey(grouped by year of publication), please refer to [List_of_Completion_Papers.md](./List_of_Completion_Papers.md). 
 
 For a list of papers on learning-based completion, please refer to [Learning_Based_Completion.md](./Learning_Based_Completion.md).
 
