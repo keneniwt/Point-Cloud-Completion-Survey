@@ -19,8 +19,19 @@ If you find our work useful, please consider citing:
   keywords={Point cloud compression;Shape;Surveys;Three-dimensional displays;Semantics;Task analysis;Surface reconstruction;Point cloud completion;Deep Learning;Computer Vision},
   doi={10.1109/TVCG.2023.3344935}}
 ```
+## List  of completion papers
 
-Here are  all the works in point cloud completion included in our survey(grouped by year of publication). 
+For all papers on point cloud completion included in our survey(grouped by year of publication), please refer to . 
+
+For a list of papers on learning-based completion, please refer to .
+
+For a list of papers on traditional completion methods, please refer to . 
+
+### Dataset
+
+For a list of dataset used in point cloud completion tasks, refer to: [Datasets_for_completion.md](./Datasets_for_completion.md).
+
+
 
 ## 2023
 1. ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion http://openaccess.thecvf.com/content/CVPR2023/html/Hong_ACL-SPC_Adaptive_Closed-Loop_System_for_Self-Supervised_Point_Cloud_Completion_CVPR_2023_paper.html 
