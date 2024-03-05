@@ -6,7 +6,7 @@ This is a repository for the survey paper on point cloud completion : https://ie
 Point cloud completion is the task of producing a complete 3D shape given an input of a partial point cloud. It has become a vital process in 3D computer graphics, vision and applications such as autonomous driving, robotics, and augmented reality. These applications often rely on the presence of a complete 3D representation of the environment. Over the past few years, many completion algorithms have been proposed and a substantial amount of research has been carried out. However, there are not many in-depth surveys that summarise the research progress in such a way that allows users to make an informed choice of what algorithms to employ given the type of data they have, the end result they want, the challenges they may face and the possible strategies they could use. In this study, we present a comprehensive survey and classification of papers on point cloud completion untill August 2023 based on the strategies, techniques, inputs, outputs, and network architectures. We will also cover datasets, evaluation methods, and application areas in point cloud completion. Finally, we discuss challenges faced by the research community and future research directions.
 
 ## Citation
-If you find our work useful, please consider citing: 
+If you find our work useful, please use the following citation: 
 ```
 @ARTICLE{10366848,
   author={Tesema, Keneni W. and Hill, Lyndon and Jones, Mark W. and Ahmad, Muneeb I. and Tam, Gary K.L.},
